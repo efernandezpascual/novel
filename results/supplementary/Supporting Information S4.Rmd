@@ -1,0 +1,133 @@
+---
+title: "Supporting Information to the paper Fernández-Pascual, E. et al. Novel ecosystems are incomplete reassemblies of regional species pools. Supporting Information S4. Full details of the MCMCglmm models comparing ecological characteristics of native species in the observed and dark assemblages.”"
+output:
+  bookdown::pdf_document2:
+    number_sections: false
+    toc: false
+link-citations: yes
+always_allow_html: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message = FALSE, echo = FALSE, warning = FALSE}
+knitr::knit_hooks$set(inline = function(x) {
+  prettyNum(x, big.mark = ",")
+})
+```
+
+```{r message = FALSE, echo = TRUE, warning = FALSE}
+library(tidyverse)
+
+### Load models
+
+load(file = "../models/m-all.Rdata")
+load(file = "../models/m-bidens.Rdata")
+load(file = "../models/m-buddleja.Rdata")
+load(file = "../models/m-cortaderia.Rdata")
+load(file = "../models/m-oenothera.Rdata")
+load(file = "../models/m-paspalum.Rdata")
+load(file = "../models/m-reynoutria.Rdata")
+load(file = "../models/m-robinia.Rdata")
+
+### Model diagnostics
+
+plot(m1) # All
+plot(m2) # Robinia
+plot(m3) # Bidens
+plot(m4) # Cortaderia
+plot(m5) # Paspalum
+plot(m6) # Buddleja
+plot(m7) # Oenothera
+plot(m8) # Reynoutria
+
+### Model summary
+
+summary(m1) # All
+summary(m2) # Robinia
+summary(m3) # Bidens
+summary(m4) # Cortaderia
+summary(m5) # Paspalum
+summary(m6) # Buddleja
+summary(m7) # Oenothera
+summary(m8) # Reynoutria
+
+### Phylo signal http://www.mpcm-evolution.com/practice/online-practical-material-chapter-11/chapter-11-1-simple-model-mcmcglmm
+
+#### All
+
+lambda <- m1$VCV[,"animal"]/(m1$VCV[,"animal"] + m1$VCV[,"units"])
+data.frame(
+  lambda = mean(lambda) %>% round(2),
+  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
+  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
+
+#### Robinia
+
+lambda <- m2$VCV[,"animal"]/(m2$VCV[,"animal"] + m2$VCV[,"units"])
+data.frame(
+  lambda = mean(lambda) %>% round(2),
+  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
+  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
+
+#### Bidens
+
+lambda <- m3$VCV[,"animal"]/(m3$VCV[,"animal"] + m3$VCV[,"units"])
+data.frame(
+  lambda = mean(lambda) %>% round(2),
+  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
+  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
+
+#### Cortaderia
+
+lambda <- m4$VCV[,"animal"]/(m4$VCV[,"animal"] + m4$VCV[,"units"])
+data.frame(
+  lambda = mean(lambda) %>% round(2),
+  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
+  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
+
+#### Paspalum
+
+lambda <- m5$VCV[,"animal"]/(m5$VCV[,"animal"] + m5$VCV[,"units"])
+data.frame(
+  lambda = mean(lambda) %>% round(2),
+  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
+  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
+
+#### Buddleja
+
+lambda <- m6$VCV[,"animal"]/(m6$VCV[,"animal"] + m6$VCV[,"units"])
+data.frame(
+  lambda = mean(lambda) %>% round(2),
+  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
+  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
+
+#### Oenothera
+
+lambda <- m7$VCV[,"animal"]/(m7$VCV[,"animal"] + m7$VCV[,"units"])
+data.frame(
+  lambda = mean(lambda) %>% round(2),
+  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
+  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
+
+#### Reynoutria
+
+lambda <- m8$VCV[,"animal"]/(m8$VCV[,"animal"] + m8$VCV[,"units"])
+data.frame(
+  lambda = mean(lambda) %>% round(2),
+  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
+  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
+
+### Random effects
+
+summary(m1)$Gcovariances # All
+summary(m2)$Gcovariances # Robinia
+summary(m3)$Gcovariances # Bidens
+summary(m4)$Gcovariances # Cortaderia
+summary(m5)$Gcovariances # Paspalum
+summary(m6)$Gcovariances # Buddleja
+summary(m7)$Gcovariances # Oenothera
+summary(m8)$Gcovariances # Reynoutria
+```
