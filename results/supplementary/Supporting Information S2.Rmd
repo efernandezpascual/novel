@@ -1,5 +1,5 @@
 ---
-title: "Supporting Information to the paper Fernández-Pascual, E. et al. Novel ecosystems are incomplete reassemblies of regional species pools. Supporting Information S2. Regional donor habitats classified at EUNIS level 2, i.e. functional habitat types.”"
+title: "Supporting Information S2. Regional donor habitats classified at EUNIS level 2, i.e. functional habitat types.”"
 output:
   bookdown::pdf_document2:
     number_sections: false
@@ -18,6 +18,6 @@ knitr::knit_hooks$set(inline = function(x) {
 })
 ```
 
-```{r figS2, out.width = "450px", echo = FALSE, fig.cap = "Regional donor habitats of the observed assemblages in the invaded habitats. Regional habitats are classified as EUNIS level 2, i.e., functional habitat types. Link width reflects the summed contribution of each donor habitat, allowing visualization of which regional habitats (on the right) act as the main sources for the observed assemblages in invaded habitats (on the left, colored by dominant invasive species). The meaning of EUNIS level 2 habitat codes can be consulted at https://floraveg.eu/habitat/"}
+```{r figS2, out.width = "450px", echo = FALSE, fig.cap = "Regional donor habitats of the observed assemblages in the novel ecosystem types. Regional habitats are classified as EUNIS level 2, i.e., functional habitat types. Link width reflects the summed contribution of each donor habitat, allowing visualization of which regional habitats (on the left) act as the main sources for the observed assemblages in novel ecosystems (on the right, colored by dominant invasive species). The meaning of EUNIS level 2 habitat codes can be consulted at https://floraveg.eu/habitat/"}
 knitr::include_graphics("FigS2.png")
 ```

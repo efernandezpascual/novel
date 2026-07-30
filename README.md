@@ -3,10 +3,10 @@ README.md
 
 ![](DSC_0059.JPG)
 
-# Novel ecosystems of the Iberian Atlantic territories
+# Species pools of novel ecosystems: regional donor habitats and unrealized native diversity
 
 This repository stores all the information related to the manuscript
-*Novel ecosystems of the Iberian Atlantic territories*, including the
+*Species pools of novel ecosystems: regional donor habitats and unrealized native diversity*, including the
 datasets, the scripts to perform data cleaning and analysis, and the
 `Rmarkdown` files to create the manuscript.
 
@@ -18,17 +18,15 @@ and storing research projects.
 
 The following materials are available in the folders of this repository:
 
-- `data` Data files including the germination dataset, the ecological
-  indicators and the phylogenetic tree.
+- `data` Data files.
 - `src` Scripts in `R` language to perform the analyses and produce the
   figures of the manuscript.
 - `results` Output of the `R` scripts, including figures and model
   outputs.
-- `doc` Files to create the manuscript using `Rmarkdown`.
+- `doc` Manuscript files.
 
 ## Citation
 
 Please cite the repository, datasets and article as:
 
-> Eduardo Fernández-Pascual, Adrián Lázaro-Lobo et al. (2026) Novel
-> ecosystems of the Iberian Atlantic territories.
+> (2026) Species pools of novel ecosystems: regional donor habitats and unrealized native diversity.

@@ -251,16 +251,16 @@ Paspalum_05,Anisantha diandra,0.1
 Reynoutria_10,Anisantha diandra,1
 Reynoutria_13,Anisantha diandra,1
 Reynoutria_15,Anisantha diandra,1
-Bidens_01,Bromus hordeaceus,1
-Bidens_09,Bromus hordeaceus,1
-Bidens_10,Bromus hordeaceus,5
-Buddleja_05,Bromus hordeaceus,15
-Cortaderia_01,Bromus hordeaceus,1
-Cortaderia_07,Bromus hordeaceus,1
-Oenothera_10,Bromus hordeaceus,5
-Reynoutria_01,Bromus hordeaceus,1
-Reynoutria_04,Bromus hordeaceus,0.1
-Reynoutria_09,Bromus hordeaceus,1
+Bidens_01,Bromus hordeaceus aggr.,1
+Bidens_09,Bromus hordeaceus aggr.,1
+Bidens_10,Bromus hordeaceus aggr.,5
+Buddleja_05,Bromus hordeaceus aggr.,15
+Cortaderia_01,Bromus hordeaceus aggr.,1
+Cortaderia_07,Bromus hordeaceus aggr.,1
+Oenothera_10,Bromus hordeaceus aggr.,5
+Reynoutria_01,Bromus hordeaceus aggr.,1
+Reynoutria_04,Bromus hordeaceus aggr.,0.1
+Reynoutria_09,Bromus hordeaceus aggr.,1
 Buddleja_09,Anisantha madritensis,5
 Buddleja_11,Anisantha madritensis,0.1
 Cortaderia_12,Anisantha madritensis,5
@@ -406,24 +406,24 @@ Robinia_07,Carex pilulifera,0.1
 Robinia_13,Castanea sativa,1
 Oenothera_02,Catapodium rigidum,1
 Oenothera_04,Catapodium rigidum,1
-Bidens_07,Centaurea nigra,5
-Buddleja_07,Centaurea nigra,0.1
-Buddleja_12,Centaurea nigra,1
-Buddleja_13,Centaurea nigra,1
-Cortaderia_07,Centaurea nigra,0.1
-Cortaderia_11,Centaurea nigra,5
-Cortaderia_13,Centaurea nigra,1
-Cortaderia_14,Centaurea nigra,5
-Oenothera_01,Centaurea nigra,5
-Oenothera_08,Centaurea nigra,5
-Paspalum_01,Centaurea nigra,1
-Paspalum_07,Centaurea nigra,0.1
-Paspalum_08,Centaurea nigra,1
-Paspalum_09,Centaurea nigra,15
-Paspalum_10,Centaurea nigra,1
-Reynoutria_01,Centaurea nigra,1
-Reynoutria_09,Centaurea nigra,0.1
-Reynoutria_13,Centaurea nigra,5
+Bidens_07,Centaurea nigra aggr.,5
+Buddleja_07,Centaurea nigra aggr.,0.1
+Buddleja_12,Centaurea nigra aggr.,1
+Buddleja_13,Centaurea nigra aggr.,1
+Cortaderia_07,Centaurea nigra aggr.,0.1
+Cortaderia_11,Centaurea nigra aggr.,5
+Cortaderia_13,Centaurea nigra aggr.,1
+Cortaderia_14,Centaurea nigra aggr.,5
+Oenothera_01,Centaurea nigra aggr.,5
+Oenothera_08,Centaurea nigra aggr.,5
+Paspalum_01,Centaurea nigra aggr.,1
+Paspalum_07,Centaurea nigra aggr.,0.1
+Paspalum_08,Centaurea nigra aggr.,1
+Paspalum_09,Centaurea nigra aggr.,15
+Paspalum_10,Centaurea nigra aggr.,1
+Reynoutria_01,Centaurea nigra aggr.,1
+Reynoutria_09,Centaurea nigra aggr.,0.1
+Reynoutria_13,Centaurea nigra aggr.,5
 Oenothera_02,Centaurium erythraea,1
 Oenothera_04,Centaurium erythraea,5
 Robinia_11,Cerastium glomeratum,0.1
@@ -764,13 +764,13 @@ Buddleja_14,Dittrichia viscosa,15
 Cortaderia_10,Dittrichia viscosa,5
 Cortaderia_14,Dittrichia viscosa,15
 Cortaderia_15,Dittrichia viscosa,1
-Buddleja_07,Dryopteris affinis,1
-Robinia_04,Dryopteris affinis,37.5
-Robinia_05,Dryopteris affinis,15
-Robinia_07,Dryopteris affinis,1
-Robinia_09,Dryopteris affinis,5
-Robinia_12,Dryopteris affinis,5
-Robinia_14,Dryopteris affinis,1
+Buddleja_07,Dryopteris affinis aggr.,1
+Robinia_04,Dryopteris affinis aggr.,37.5
+Robinia_05,Dryopteris affinis aggr.,15
+Robinia_07,Dryopteris affinis aggr.,1
+Robinia_09,Dryopteris affinis aggr.,5
+Robinia_12,Dryopteris affinis aggr.,5
+Robinia_14,Dryopteris affinis aggr.,1
 Buddleja_07,Dryopteris dilatata,1
 Bidens_12,Echinochloa crus-galli,1
 Paspalum_11,Echinochloa crus-galli,15
@@ -917,9 +917,9 @@ Oenothera_03,Fumaria capreolata,15
 Oenothera_09,Fumaria capreolata,15
 Oenothera_11,Fumaria capreolata,1
 Reynoutria_14,Vulpia bromoides,1
-Bidens_10,Festuca rubra,5
-Cortaderia_07,Festuca rubra,0.1
-Paspalum_04,Festuca rubra,5
+Bidens_10,Festuca rubra aggr.,5
+Cortaderia_07,Festuca rubra aggr.,0.1
+Paspalum_04,Festuca rubra aggr.,5
 Bidens_04,Foeniculum vulgare,1
 Bidens_07,Foeniculum vulgare,1
 Bidens_08,Foeniculum vulgare,1
@@ -970,11 +970,11 @@ Oenothera_12,Galactites tomentosus,0.1
 Paspalum_10,Galactites tomentosus,1
 Reynoutria_10,Galactites tomentosus,0.1
 Paspalum_15,Galinsoga parviflora,0.1
-Bidens_05,Galium album,15
-Paspalum_06,Galium album,5
-Paspalum_07,Galium album,5
-Paspalum_08,Galium album,5
-Reynoutria_05,Galium album,5
+Bidens_05,Galium mollugo aggr.,15
+Paspalum_06,Galium mollugo aggr.,5
+Paspalum_07,Galium mollugo aggr.,5
+Paspalum_08,Galium mollugo aggr.,5
+Reynoutria_05,Galium mollugo aggr.,5
 Buddleja_02,Galium aparine,0.1
 Buddleja_03,Galium aparine,1
 Buddleja_04,Galium aparine,0.1
@@ -996,15 +996,14 @@ Robinia_10,Galium aparine,0.1
 Robinia_11,Galium aparine,5
 Robinia_13,Galium aparine,1
 Robinia_15,Galium aparine,5
-Bidens_05,Galium mollugo,5
-Bidens_07,Galium mollugo,0.1
-Buddleja_09,Galium mollugo,0.1
-Buddleja_14,Galium mollugo,1
-Buddleja_15,Galium mollugo,1
-Cortaderia_11,Galium mollugo,1
-Oenothera_01,Galium mollugo,5
-Oenothera_02,Galium mollugo,0.1
-Reynoutria_04,Galium mollugo,0.1
+Bidens_07,Galium mollugo aggr.,0.1
+Buddleja_09,Galium mollugo aggr.,0.1
+Buddleja_14,Galium mollugo aggr.,1
+Buddleja_15,Galium mollugo aggr.,1
+Cortaderia_11,Galium mollugo aggr.,1
+Oenothera_01,Galium mollugo aggr.,5
+Oenothera_02,Galium mollugo aggr.,0.1
+Reynoutria_04,Galium mollugo aggr.,0.1
 Buddleja_04,Galium murale,0.1
 Cortaderia_05,Galium murale,0.1
 Cortaderia_09,Galium rotundifolium,0.1
@@ -1347,12 +1346,12 @@ Paspalum_07,Leontodon hispidus,0.1
 Paspalum_04,Leontodon hispidus,1
 Bidens_03,Lepidium virginicum,0.1
 Buddleja_10,Lepidium virginicum,0.1
-Buddleja_01,Leucanthemum ircutianum aggr.,1
-Buddleja_14,Leucanthemum ircutianum aggr.,0.1
-Cortaderia_11,Leucanthemum ircutianum aggr.,0.1
-Cortaderia_13,Leucanthemum ircutianum aggr.,5
-Oenothera_02,Leucanthemum ircutianum aggr.,15
-Oenothera_04,Leucanthemum ircutianum aggr.,1
+Buddleja_01,Leucanthemum vulgare aggr.,1
+Buddleja_14,Leucanthemum vulgare aggr.,0.1
+Cortaderia_11,Leucanthemum vulgare aggr.,0.1
+Cortaderia_13,Leucanthemum vulgare aggr.,5
+Oenothera_02,Leucanthemum vulgare aggr.,15
+Oenothera_04,Leucanthemum vulgare aggr.,1
 Robinia_02,Ligustrum ovalifolium,5
 Robinia_08,Ligustrum ovalifolium,1
 Buddleja_14,Linum bienne,0.1
@@ -1735,11 +1734,11 @@ Bidens_14,Paspalum distichum,1
 Paspalum_15,Paspalum distichum,1
 Reynoutria_14,Paspalum distichum,1
 Reynoutria_01,Pastinaca sativa aggr.,1
-Buddleja_02,Pentaglottis sempervirens,0.1
-Buddleja_03,Pentaglottis sempervirens,5
-Reynoutria_12,Pentaglottis sempervirens,1
-Robinia_11,Pentaglottis sempervirens,15
-Robinia_13,Pentaglottis sempervirens,15
+Buddleja_02,Pentaglottis sempervirens,0.1
+Buddleja_03,Pentaglottis sempervirens,5
+Reynoutria_12,Pentaglottis sempervirens,1
+Robinia_11,Pentaglottis sempervirens,15
+Robinia_13,Pentaglottis sempervirens,15
 Bidens_12,Persicaria maculosa,5
 Bidens_13,Persicaria maculosa,1
 Paspalum_15,Persicaria lapathifolia,1
@@ -2069,90 +2068,90 @@ Robinia_02,Rubia peregrina,15
 Robinia_03,Rubia peregrina,1
 Robinia_04,Rubia peregrina,1
 Robinia_13,Rubia peregrina,1
-Bidens_02,Rubus ulmifolius aggr.,0.1
-Bidens_04,Rubus ulmifolius aggr.,1
-Bidens_06,Rubus ulmifolius aggr.,5
-Buddleja_01,Rubus ulmifolius aggr.,1
-Buddleja_03,Rubus ulmifolius aggr.,15
-Buddleja_05,Rubus ulmifolius aggr.,5
-Buddleja_07,Rubus ulmifolius aggr.,37.5
-Buddleja_08,Rubus ulmifolius aggr.,5
-Buddleja_10,Rubus ulmifolius aggr.,5
-Buddleja_15,Rubus ulmifolius aggr.,15
-Cortaderia_02,Rubus ulmifolius aggr.,0.1
-Cortaderia_03,Rubus ulmifolius aggr.,1
-Cortaderia_09,Rubus ulmifolius aggr.,5
-Cortaderia_10,Rubus ulmifolius aggr.,5
-Cortaderia_14,Rubus ulmifolius aggr.,5
-Cortaderia_15,Rubus ulmifolius aggr.,5
-Oenothera_05,Rubus ulmifolius aggr.,1
-Oenothera_07,Rubus ulmifolius aggr.,1
-Oenothera_08,Rubus ulmifolius aggr.,37.5
-Oenothera_10,Rubus ulmifolius aggr.,37.5
-Paspalum_01,Rubus ulmifolius aggr.,0.1
-Paspalum_05,Rubus ulmifolius aggr.,5
-Paspalum_10,Rubus ulmifolius aggr.,1
-Paspalum_11,Rubus ulmifolius aggr.,1
-Reynoutria_01,Rubus ulmifolius aggr.,15
-Reynoutria_05,Rubus ulmifolius aggr.,5
-Reynoutria_07,Rubus ulmifolius aggr.,15
-Reynoutria_09,Rubus ulmifolius aggr.,15
-Robinia_08,Rubus ulmifolius aggr.,15
-Robinia_09,Rubus ulmifolius aggr.,5
-Robinia_10,Rubus ulmifolius aggr.,62.5
-Robinia_11,Rubus ulmifolius aggr.,5
-Robinia_12,Rubus ulmifolius aggr.,87.5
-Robinia_14,Rubus ulmifolius aggr.,37.5
-Robinia_15,Rubus ulmifolius aggr.,15
-Bidens_03,Rubus ulmifolius aggr.,0.1
-Bidens_07,Rubus ulmifolius aggr.,5
-Bidens_08,Rubus ulmifolius aggr.,5
-Bidens_09,Rubus ulmifolius aggr.,1
-Bidens_10,Rubus ulmifolius aggr.,1
-Bidens_13,Rubus ulmifolius aggr.,1
-Bidens_14,Rubus ulmifolius aggr.,15
-Buddleja_02,Rubus ulmifolius aggr.,5
-Buddleja_04,Rubus ulmifolius aggr.,5
-Buddleja_06,Rubus ulmifolius aggr.,15
-Buddleja_09,Rubus ulmifolius aggr.,1
-Buddleja_11,Rubus ulmifolius aggr.,37.5
-Buddleja_12,Rubus ulmifolius aggr.,15
-Buddleja_13,Rubus ulmifolius aggr.,5
-Buddleja_14,Rubus ulmifolius aggr.,5
-Cortaderia_01,Rubus ulmifolius aggr.,5
-Cortaderia_04,Rubus ulmifolius aggr.,37.5
-Cortaderia_05,Rubus ulmifolius aggr.,37.5
-Cortaderia_06,Rubus ulmifolius aggr.,15
-Cortaderia_07,Rubus ulmifolius aggr.,5
-Cortaderia_11,Rubus ulmifolius aggr.,1
-Cortaderia_13,Rubus ulmifolius aggr.,5
-Oenothera_02,Rubus ulmifolius aggr.,5
-Oenothera_03,Rubus ulmifolius aggr.,15
-Oenothera_06,Rubus ulmifolius aggr.,5
-Oenothera_09,Rubus ulmifolius aggr.,5
-Oenothera_11,Rubus ulmifolius aggr.,5
-Oenothera_12,Rubus ulmifolius aggr.,5
-Oenothera_13,Rubus ulmifolius aggr.,1
-Oenothera_14,Rubus ulmifolius aggr.,15
-Paspalum_12,Rubus ulmifolius aggr.,1
-Paspalum_13,Rubus ulmifolius aggr.,1
-Paspalum_14,Rubus ulmifolius aggr.,1
-Reynoutria_02,Rubus ulmifolius aggr.,15
-Reynoutria_08,Rubus ulmifolius aggr.,5
-Reynoutria_10,Rubus ulmifolius aggr.,1
-Reynoutria_11,Rubus ulmifolius aggr.,15
-Reynoutria_12,Rubus ulmifolius aggr.,1
-Reynoutria_13,Rubus ulmifolius aggr.,5
-Reynoutria_14,Rubus ulmifolius aggr.,0.1
-Reynoutria_15,Rubus ulmifolius aggr.,1
-Robinia_01,Rubus ulmifolius aggr.,15
-Robinia_02,Rubus ulmifolius aggr.,15
-Robinia_03,Rubus ulmifolius aggr.,1
-Robinia_04,Rubus ulmifolius aggr.,15
-Robinia_05,Rubus ulmifolius aggr.,5
-Robinia_06,Rubus ulmifolius aggr.,15
-Robinia_07,Rubus ulmifolius aggr.,37.5
-Robinia_13,Rubus ulmifolius aggr.,37.5
+Bidens_02,Rubus fruticosus aggr.,0.1
+Bidens_04,Rubus fruticosus aggr.,1
+Bidens_06,Rubus fruticosus aggr.,5
+Buddleja_01,Rubus fruticosus aggr.,1
+Buddleja_03,Rubus fruticosus aggr.,15
+Buddleja_05,Rubus fruticosus aggr.,5
+Buddleja_07,Rubus fruticosus aggr.,37.5
+Buddleja_08,Rubus fruticosus aggr.,5
+Buddleja_10,Rubus fruticosus aggr.,5
+Buddleja_15,Rubus fruticosus aggr.,15
+Cortaderia_02,Rubus fruticosus aggr.,0.1
+Cortaderia_03,Rubus fruticosus aggr.,1
+Cortaderia_09,Rubus fruticosus aggr.,5
+Cortaderia_10,Rubus fruticosus aggr.,5
+Cortaderia_14,Rubus fruticosus aggr.,5
+Cortaderia_15,Rubus fruticosus aggr.,5
+Oenothera_05,Rubus fruticosus aggr.,1
+Oenothera_07,Rubus fruticosus aggr.,1
+Oenothera_08,Rubus fruticosus aggr.,37.5
+Oenothera_10,Rubus fruticosus aggr.,37.5
+Paspalum_01,Rubus fruticosus aggr.,0.1
+Paspalum_05,Rubus fruticosus aggr.,5
+Paspalum_10,Rubus fruticosus aggr.,1
+Paspalum_11,Rubus fruticosus aggr.,1
+Reynoutria_01,Rubus fruticosus aggr.,15
+Reynoutria_05,Rubus fruticosus aggr.,5
+Reynoutria_07,Rubus fruticosus aggr.,15
+Reynoutria_09,Rubus fruticosus aggr.,15
+Robinia_08,Rubus fruticosus aggr.,15
+Robinia_09,Rubus fruticosus aggr.,5
+Robinia_10,Rubus fruticosus aggr.,62.5
+Robinia_11,Rubus fruticosus aggr.,5
+Robinia_12,Rubus fruticosus aggr.,87.5
+Robinia_14,Rubus fruticosus aggr.,37.5
+Robinia_15,Rubus fruticosus aggr.,15
+Bidens_03,Rubus fruticosus aggr.,0.1
+Bidens_07,Rubus fruticosus aggr.,5
+Bidens_08,Rubus fruticosus aggr.,5
+Bidens_09,Rubus fruticosus aggr.,1
+Bidens_10,Rubus fruticosus aggr.,1
+Bidens_13,Rubus fruticosus aggr.,1
+Bidens_14,Rubus fruticosus aggr.,15
+Buddleja_02,Rubus fruticosus aggr.,5
+Buddleja_04,Rubus fruticosus aggr.,5
+Buddleja_06,Rubus fruticosus aggr.,15
+Buddleja_09,Rubus fruticosus aggr.,1
+Buddleja_11,Rubus fruticosus aggr.,37.5
+Buddleja_12,Rubus fruticosus aggr.,15
+Buddleja_13,Rubus fruticosus aggr.,5
+Buddleja_14,Rubus fruticosus aggr.,5
+Cortaderia_01,Rubus fruticosus aggr.,5
+Cortaderia_04,Rubus fruticosus aggr.,37.5
+Cortaderia_05,Rubus fruticosus aggr.,37.5
+Cortaderia_06,Rubus fruticosus aggr.,15
+Cortaderia_07,Rubus fruticosus aggr.,5
+Cortaderia_11,Rubus fruticosus aggr.,1
+Cortaderia_13,Rubus fruticosus aggr.,5
+Oenothera_02,Rubus fruticosus aggr.,5
+Oenothera_03,Rubus fruticosus aggr.,15
+Oenothera_06,Rubus fruticosus aggr.,5
+Oenothera_09,Rubus fruticosus aggr.,5
+Oenothera_11,Rubus fruticosus aggr.,5
+Oenothera_12,Rubus fruticosus aggr.,5
+Oenothera_13,Rubus fruticosus aggr.,1
+Oenothera_14,Rubus fruticosus aggr.,15
+Paspalum_12,Rubus fruticosus aggr.,1
+Paspalum_13,Rubus fruticosus aggr.,1
+Paspalum_14,Rubus fruticosus aggr.,1
+Reynoutria_02,Rubus fruticosus aggr.,15
+Reynoutria_08,Rubus fruticosus aggr.,5
+Reynoutria_10,Rubus fruticosus aggr.,1
+Reynoutria_11,Rubus fruticosus aggr.,15
+Reynoutria_12,Rubus fruticosus aggr.,1
+Reynoutria_13,Rubus fruticosus aggr.,5
+Reynoutria_14,Rubus fruticosus aggr.,0.1
+Reynoutria_15,Rubus fruticosus aggr.,1
+Robinia_01,Rubus fruticosus aggr.,15
+Robinia_02,Rubus fruticosus aggr.,15
+Robinia_03,Rubus fruticosus aggr.,1
+Robinia_04,Rubus fruticosus aggr.,15
+Robinia_05,Rubus fruticosus aggr.,5
+Robinia_06,Rubus fruticosus aggr.,15
+Robinia_07,Rubus fruticosus aggr.,37.5
+Robinia_13,Rubus fruticosus aggr.,37.5
 Bidens_07,Rumex acetosa,1
 Bidens_08,Rumex acetosa,1
 Buddleja_07,Rumex acetosa,0.1
@@ -2213,7 +2212,7 @@ Robinia_06,Salix atrocinerea,1
 Robinia_11,Salix atrocinerea,5
 Robinia_14,Salix atrocinerea,15
 Cortaderia_15,Salix caprea,1
-Buddleja_09,Salix fragilis,1
+Buddleja_09,Salix euxina,1
 Buddleja_12,Sambucus ebulus,5
 Paspalum_07,Sambucus ebulus,1
 Reynoutria_07,Sambucus ebulus,1

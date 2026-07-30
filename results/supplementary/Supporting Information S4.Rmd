@@ -1,5 +1,5 @@
 ---
-title: "Supporting Information to the paper Fernández-Pascual, E. et al. Novel ecosystems are incomplete reassemblies of regional species pools. Supporting Information S4. Full details of the MCMCglmm models comparing ecological characteristics of native species in the observed and dark assemblages.”"
+title: "Supporting Information S4. Full details of the MCMCglmm models comparing ecological characteristics of native species in the observed and dark species lists.”"
 output:
   bookdown::pdf_document2:
     number_sections: false

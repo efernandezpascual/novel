@@ -11,15 +11,19 @@ legacyspecies %>% group_by(taxon) %>% tally %>% filter(n < 3) %>% pull(taxon) ->
 
 legacyspecies %>% filter(! taxon %in% rarespp) -> legacyspecies
 
-# species %>%
-#   rbind(legacyspecies) %>%
-#   spread(taxon,cover, fill = 0) %>%
-#   column_to_rownames(var = "plotID") -> x
-# 
-# DarkDiv(x, r = x, method = "Hypergeometric", limit = "min",
-#         const = 0.01, removeAbsent = T, wa = F, weights = NULL) -> dd
-# 
-# save(dd, file = "results/darkdiversity.RData")
+species %>%
+  rbind(legacyspecies) %>%
+  group_by(plotID, taxon) %>%
+  filter(cover == max(cover)) %>%
+  sample_n(1) %>%
+  group_by() %>%
+  spread(taxon,cover, fill = 0) %>%
+  column_to_rownames(var = "plotID") -> x
+
+DarkDiv(x, r = x, method = "Hypergeometric", limit = "min",
+        const = 0.01, removeAbsent = T, wa = F, weights = NULL) -> dd
+
+save(dd, file = "results/darkdiversity.RData")
 
 load(file = "results/darkdiversity.RData")
 
@@ -118,4 +122,9 @@ finalpools %>% filter(observed == "0") %>% filter(! taxon %in% obsspp) %>%
   arrange(-n)
 
 finalpools %>%
-  write.csv("results/darkdiversity//species-pools-native.csv", row.names = FALSE, fileEncoding = "latin1")
+  write.csv("results/darkdiversity/species-pools-native.csv", row.names = FALSE, fileEncoding = "latin1")
+
+read.csv("results/darkdiversity/species-pools-native.csv", fileEncoding = "latin1") %>%
+  select(-p) %>%
+  spread(habitat, observed, fill = "-") %>%
+  write.csv("results/supplementary/Supplementary-Information-S3-v2.csv", fileEncoding = "latin1", row.names = FALSE)

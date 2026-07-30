@@ -1,5 +1,5 @@
 ---
-title: "Supporting Information to the paper Fernández-Pascual, E. et al. Novel ecosystems are incomplete reassemblies of regional species pools. Supporting Information S1. Full results of the PERMANOVA analysis of the floristic differentiation between the seven invaded habitats.”"
+title: "Supporting Information S1. Full results of the PERMANOVA analysis of the floristic differentiation between the seven novel ecosystem types.”"
 output:
   bookdown::pdf_document2:
     number_sections: false

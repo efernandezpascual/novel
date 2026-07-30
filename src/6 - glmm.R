@@ -1,4 +1,4 @@
-library(U.PhyloMaker); library(tidyverse)
+library(U.PhyloMaker); library(tidyverse); source("src/colores.R")
 
 rm(list = ls())
 
@@ -11,17 +11,32 @@ read.csv("results/darkdiversity/species-pools-native.csv", fileEncoding = "latin
 merge(pools, traits, all.x = TRUE) %>%
   select(taxon, observed, habitat, Disturbance.Frequency:Soil.Disturbance) %>%
   na.omit %>%
-  mutate(animal = gsub(" ", "_", taxon)) -> df1
+  mutate(animal = gsub(" aggr.", "", taxon))%>%
+  mutate(animal = gsub(" ", "_", animal)) -> df1
+
+df1 %>% select(Disturbance.Frequency:Soil.Disturbance) %>% unique %>% cor
+df1 %>% select(Mowing.Frequency,
+               Soil.Disturbance,
+               Grazing.Pressure,
+               EIVE1.M,
+               EIVE1.N) %>% unique %>% cor
+df1 %>% select(Disturbance.Frequency:Soil.Disturbance) %>% unique %>% FactoMineR::PCA()
+df1 %>% select(Mowing.Frequency,
+               Soil.Disturbance,
+               Grazing.Pressure,
+               EIVE1.M,
+               EIVE1.N) %>% unique %>% FactoMineR::PCA()
 
 ### Make tree
 
 # df1 %>%
-#   select(taxon) %>%
+#   select(animal) %>%
 #   unique %>%
-#   separate(taxon, into = c("genus", "epithet"), sep = " ", remove = FALSE) %>%
-#   select(taxon, genus) %>%
+#   separate(animal, into = c("genus", "epithet"), sep = "_", remove = FALSE) %>%
+#   select(animal, genus) %>%
+#   mutate(animal = gsub("_", " ", animal)) %>%
 #   unique %>%
-#   arrange(taxon) ->
+#   arrange(animal) ->
 #   ranks1
 # 
 # read.csv("data/plant_genus_list.csv") -> gen.list
@@ -66,9 +81,9 @@ df1 %>%
   filter(animal %in% nnls_orig$tip.label) %>%
   filter(habitat == "Robinia") -> df2
 
-MCMCglmm::MCMCglmm(observed ~ scale(Disturbance.Frequency) + scale(Disturbance.Severity) +
+MCMCglmm::MCMCglmm(observed ~
                      scale(Soil.Disturbance) + scale(Grazing.Pressure) + scale(Mowing.Frequency) +
-                     scale(EIVE1.T) + scale(EIVE1.M) + scale(EIVE1.L) + scale(EIVE1.N),
+                     scale(EIVE1.M) + scale(EIVE1.N),
                    random = ~ animal,
                    family = "threshold", pedigree = nnls_orig, prior = priors, data = df2,
                    nitt = nite, thin = nthi, burnin = nbur,
@@ -82,9 +97,9 @@ df1 %>%
   filter(animal %in% nnls_orig$tip.label) %>%
   filter(habitat == "Bidens") -> df2
 
-MCMCglmm::MCMCglmm(observed ~ scale(Disturbance.Frequency) + scale(Disturbance.Severity) +
+MCMCglmm::MCMCglmm(observed ~ 
                      scale(Soil.Disturbance) + scale(Grazing.Pressure) + scale(Mowing.Frequency) +
-                     scale(EIVE1.T) + scale(EIVE1.M) + scale(EIVE1.L) + scale(EIVE1.N),
+                     scale(EIVE1.M) + scale(EIVE1.N),
                    random = ~ animal,
                    family = "threshold", pedigree = nnls_orig, prior = priors, data = df2,
                    nitt = nite, thin = nthi, burnin = nbur,
@@ -98,9 +113,9 @@ df1 %>%
   filter(animal %in% nnls_orig$tip.label) %>%
   filter(habitat == "Cortaderia") -> df2
 
-MCMCglmm::MCMCglmm(observed ~ scale(Disturbance.Frequency) + scale(Disturbance.Severity) +
+MCMCglmm::MCMCglmm(observed ~ 
                      scale(Soil.Disturbance) + scale(Grazing.Pressure) + scale(Mowing.Frequency) +
-                     scale(EIVE1.T) + scale(EIVE1.M) + scale(EIVE1.L) + scale(EIVE1.N),
+                     scale(EIVE1.M) + scale(EIVE1.N),
                    random = ~ animal,
                    family = "threshold", pedigree = nnls_orig, prior = priors, data = df2,
                    nitt = nite, thin = nthi, burnin = nbur,
@@ -114,13 +129,15 @@ df1 %>%
   filter(animal %in% nnls_orig$tip.label) %>%
   filter(habitat == "Paspalum") -> df2
 
-MCMCglmm::MCMCglmm(observed ~ scale(Disturbance.Frequency) + scale(Disturbance.Severity) +
+MCMCglmm::MCMCglmm(observed ~ 
                      scale(Soil.Disturbance) + scale(Grazing.Pressure) + scale(Mowing.Frequency) +
-                     scale(EIVE1.T) + scale(EIVE1.M) + scale(EIVE1.L) + scale(EIVE1.N),
+                     scale(EIVE1.M) + scale(EIVE1.N),
                    random = ~ animal,
                    family = "threshold", pedigree = nnls_orig, prior = priors, data = df2,
                    nitt = nite, thin = nthi, burnin = nbur,
                    verbose = FALSE, saveX = FALSE, saveZ = FALSE, saveXL = FALSE, pr = FALSE, pl = FALSE) -> m5
+
+summary(m5)
 
 save(m5, file = "results/models/m-paspalum.Rdata")
 
@@ -130,9 +147,9 @@ df1 %>%
   filter(animal %in% nnls_orig$tip.label) %>%
   filter(habitat == "Buddleja") -> df2
 
-MCMCglmm::MCMCglmm(observed ~ scale(Disturbance.Frequency) + scale(Disturbance.Severity) +
+MCMCglmm::MCMCglmm(observed ~ 
                      scale(Soil.Disturbance) + scale(Grazing.Pressure) + scale(Mowing.Frequency) +
-                     scale(EIVE1.T) + scale(EIVE1.M) + scale(EIVE1.L) + scale(EIVE1.N),
+                     scale(EIVE1.M) + scale(EIVE1.N),
                    random = ~ animal,
                    family = "threshold", pedigree = nnls_orig, prior = priors, data = df2,
                    nitt = nite, thin = nthi, burnin = nbur,
@@ -146,9 +163,9 @@ df1 %>%
   filter(animal %in% nnls_orig$tip.label) %>%
   filter(habitat == "Oenothera") -> df2
 
-MCMCglmm::MCMCglmm(observed ~ scale(Disturbance.Frequency) + scale(Disturbance.Severity) +
+MCMCglmm::MCMCglmm(observed ~ 
                      scale(Soil.Disturbance) + scale(Grazing.Pressure) + scale(Mowing.Frequency) +
-                     scale(EIVE1.T) + scale(EIVE1.M) + scale(EIVE1.L) + scale(EIVE1.N),
+                     scale(EIVE1.M) + scale(EIVE1.N),
                    random = ~ animal,
                    family = "threshold", pedigree = nnls_orig, prior = priors, data = df2,
                    nitt = nite, thin = nthi, burnin = nbur,
@@ -162,9 +179,9 @@ df1 %>%
   filter(animal %in% nnls_orig$tip.label) %>%
   filter(habitat == "Reynoutria") -> df2
 
-MCMCglmm::MCMCglmm(observed ~ scale(Disturbance.Frequency) + scale(Disturbance.Severity) +
+MCMCglmm::MCMCglmm(observed ~ 
                      scale(Soil.Disturbance) + scale(Grazing.Pressure) + scale(Mowing.Frequency) +
-                     scale(EIVE1.T) + scale(EIVE1.M) + scale(EIVE1.L) + scale(EIVE1.N),
+                     scale(EIVE1.M) + scale(EIVE1.N),
                    random = ~ animal,
                    family = "threshold", pedigree = nnls_orig, prior = priors, data = df2,
                    nitt = nite, thin = nthi, burnin = nbur,
@@ -176,7 +193,7 @@ save(m8, file = "results/models/m-reynoutria.Rdata")
 
 read.csv("data/sivim-eivs.csv", fileEncoding = "latin1") %>%
   mutate(taxon = gsub("-", " ", taxon)) -> traits
-read.csv("results/species-pools-native.csv", fileEncoding = "latin1")  %>%
+read.csv("results/darkdiversity/species-pools-native.csv", fileEncoding = "latin1")  %>%
   select(taxon, observed) %>% unique  -> pools
 
 merge(pools, traits, all.x = TRUE) %>%
@@ -185,9 +202,9 @@ merge(pools, traits, all.x = TRUE) %>%
   mutate(animal = gsub(" ", "_", taxon)) %>%
   filter(animal %in% nnls_orig$tip.label) -> df1
 
-MCMCglmm::MCMCglmm(observed ~ scale(Disturbance.Frequency) + scale(Disturbance.Severity) +
+MCMCglmm::MCMCglmm(observed ~ 
                      scale(Soil.Disturbance) + scale(Grazing.Pressure) + scale(Mowing.Frequency) +
-                     scale(EIVE1.T) + scale(EIVE1.M) + scale(EIVE1.L) + scale(EIVE1.N),
+                     scale(EIVE1.M) + scale(EIVE1.N),
                    random = ~ animal,
                    family = "threshold", pedigree = nnls_orig, prior = priors, data = df1,
                    nitt = nite, thin = nthi, burnin = nbur,
@@ -379,9 +396,9 @@ rbind(
   ggplot(aes(y = Model, x = post.mean,
              xmin = l.95..CI, xmax = u.95..CI,
              color = Model)) +
-  facet_wrap(~ Effect, nrow = 3) +
+  facet_wrap(~ Effect, nrow = 1) +
   geom_point(size = 2) +
-  labs(x = "Effect size") +
+  labs(x = "Effect size on the probability of belonging to the realized species pool of the novel ecosystem types") +
   geom_errorbarh(height = .3) +
   geom_vline(xintercept = 0, linetype = "dashed") +
   scale_color_manual(values = c(rev(colores), "grey10")) +
@@ -406,4 +423,4 @@ rbind(
   fig6; fig6
 
 ggsave(fig6, file = "results/figures/Fig4.png", bg = "white", 
-       path = NULL, scale = 1, width = 180, height = 120, units = "mm", dpi = 600)
+       path = NULL, scale = 1, width = 180, height = 80, units = "mm", dpi = 600)
