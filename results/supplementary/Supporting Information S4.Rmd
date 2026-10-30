@@ -1,11 +1,14 @@
 ---
-title: "Supporting Information S4. Full details of the MCMCglmm models comparing ecological characteristics of native species in the observed and dark species lists.”"
+title: "Supporting Information S4. Full details of the MCMCglmm models comparing ecological characteristics of native species in the realized and unrealized components of the species pools."
 output:
   bookdown::pdf_document2:
     number_sections: false
     toc: false
 link-citations: yes
 always_allow_html: true
+header-includes:
+  - \renewcommand{\thetable}{S2.\arabic{table}}
+  - \renewcommand{\thefigure}{S2.\arabic{figure}}
 ---
 
 ```{r setup, include=FALSE}
@@ -19,115 +22,38 @@ knitr::knit_hooks$set(inline = function(x) {
 ```
 
 ```{r message = FALSE, echo = TRUE, warning = FALSE}
-library(tidyverse)
+library(tidyverse); library(coda)
 
-### Load models
+### Load models (main criterion: highest-ranked)
 
-load(file = "../models/m-all.Rdata")
-load(file = "../models/m-bidens.Rdata")
-load(file = "../models/m-buddleja.Rdata")
-load(file = "../models/m-cortaderia.Rdata")
-load(file = "../models/m-oenothera.Rdata")
-load(file = "../models/m-paspalum.Rdata")
-load(file = "../models/m-reynoutria.Rdata")
-load(file = "../models/m-robinia.Rdata")
+load_model <- function(f) { e <- new.env(); load(f, envir = e); get(ls(e)[1], envir = e) }
+
+types <- c(Overall = "all", Bidens = "bidens", Buddleja = "buddleja",
+             Cortaderia = "cortaderia", Oenothera = "oenothera", Paspalum = "paspalum",
+             Reynoutria = "reynoutria", Robinia = "robinia")
+
+models <- map(types, ~ load_model(file.path("../models/topn", paste0("m-", .x, ".Rdata"))))
 
 ### Model diagnostics
 
-plot(m1) # All
-plot(m2) # Robinia
-plot(m3) # Bidens
-plot(m4) # Cortaderia
-plot(m5) # Paspalum
-plot(m6) # Buddleja
-plot(m7) # Oenothera
-plot(m8) # Reynoutria
+iwalk(models, ~ plot(.x$VCV, main = .y))
+iwalk(models, ~ plot(.x$Sol, main = .y))
 
 ### Model summary
 
-summary(m1) # All
-summary(m2) # Robinia
-summary(m3) # Bidens
-summary(m4) # Cortaderia
-summary(m5) # Paspalum
-summary(m6) # Buddleja
-summary(m7) # Oenothera
-summary(m8) # Reynoutria
+map(models, summary)
 
 ### Phylo signal http://www.mpcm-evolution.com/practice/online-practical-material-chapter-11/chapter-11-1-simple-model-mcmcglmm
 
-#### All
-
-lambda <- m1$VCV[,"animal"]/(m1$VCV[,"animal"] + m1$VCV[,"units"])
-data.frame(
-  lambda = mean(lambda) %>% round(2),
-  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
-  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
-
-#### Robinia
-
-lambda <- m2$VCV[,"animal"]/(m2$VCV[,"animal"] + m2$VCV[,"units"])
-data.frame(
-  lambda = mean(lambda) %>% round(2),
-  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
-  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
-
-#### Bidens
-
-lambda <- m3$VCV[,"animal"]/(m3$VCV[,"animal"] + m3$VCV[,"units"])
-data.frame(
-  lambda = mean(lambda) %>% round(2),
-  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
-  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
-
-#### Cortaderia
-
-lambda <- m4$VCV[,"animal"]/(m4$VCV[,"animal"] + m4$VCV[,"units"])
-data.frame(
-  lambda = mean(lambda) %>% round(2),
-  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
-  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
-
-#### Paspalum
-
-lambda <- m5$VCV[,"animal"]/(m5$VCV[,"animal"] + m5$VCV[,"units"])
-data.frame(
-  lambda = mean(lambda) %>% round(2),
-  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
-  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
-
-#### Buddleja
-
-lambda <- m6$VCV[,"animal"]/(m6$VCV[,"animal"] + m6$VCV[,"units"])
-data.frame(
-  lambda = mean(lambda) %>% round(2),
-  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
-  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
-
-#### Oenothera
-
-lambda <- m7$VCV[,"animal"]/(m7$VCV[,"animal"] + m7$VCV[,"units"])
-data.frame(
-  lambda = mean(lambda) %>% round(2),
-  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
-  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
-
-#### Reynoutria
-
-lambda <- m8$VCV[,"animal"]/(m8$VCV[,"animal"] + m8$VCV[,"units"])
-data.frame(
-  lambda = mean(lambda) %>% round(2),
-  min = coda::HPDinterval(lambda)[, 1] %>% round(2),
-  max = coda::HPDinterval(lambda)[, 2] %>% round(2))
+map_dfr(models, function(m) {
+  lambda <- coda::mcmc(as.numeric(m$VCV[, "animal"] / (m$VCV[, "animal"] + m$VCV[, "units"])))
+  hpd <- coda::HPDinterval(lambda)
+  tibble(lambda = round(mean(lambda), 2),
+         min = round(hpd[, 1], 2),
+         max = round(hpd[, 2], 2))
+}, .id = "Model")
 
 ### Random effects
 
-summary(m1)$Gcovariances # All
-summary(m2)$Gcovariances # Robinia
-summary(m3)$Gcovariances # Bidens
-summary(m4)$Gcovariances # Cortaderia
-summary(m5)$Gcovariances # Paspalum
-summary(m6)$Gcovariances # Buddleja
-summary(m7)$Gcovariances # Oenothera
-summary(m8)$Gcovariances # Reynoutria
+map(models, ~ summary(.x)$Gcovariances)
 ```

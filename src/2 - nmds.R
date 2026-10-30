@@ -14,6 +14,8 @@ header %>%
   spread(taxon, cover, fill = 0) %>%
   column_to_rownames(var = "plotID") -> matrix 
 
+set.seed(1)
+
 matrix %>%
   vegan::metaMDS(trymax = 100000, k = 2) -> 
   nmds # Ordination output
@@ -44,7 +46,6 @@ ggplot(sitescores, aes(x = Dim.1, y = Dim.2)) +
   geom_hline(yintercept = 0, linetype = "dashed") +
   geom_vline(xintercept = 0, linetype = "dashed") +
   geom_point(aes(fill = habitat), color = "black", size = 3.5, shape = 21) +
-  ggrepel::geom_text_repel(data = sppscores, aes(label = Species), color = "grey33", fontface = "italic", size = 2, segment.color = "transparent") +
   ggthemes::theme_tufte() +
   guides(fill = guide_legend(nrow = 1)) + 
   theme(text = element_text(family = "sans"),

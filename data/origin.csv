@@ -1,5 +1,5 @@
 taxon,origin
-Abies alba,NA
+Abies alba,native
 Abietinella abietina,NA
 Acacia dealbata,neophyte
 Acer campestre,native
@@ -14,17 +14,17 @@ Achillea maritima,native
 Achillea millefolium,native
 Achillea odorata,native
 Achillea ptarmica,NA
-Achillea thracica,NA
-Achnatherum bromoides,NA
-Acis autumnalis,NA
+Achillea thracica,native
+Achnatherum bromoides,native
+Acis autumnalis,native
 Acis trichophylla ,NA
 Aconitum lycoctonum aggr.,native
 Aconitum napellus,native
-Aconitum variegatum,NA
+Aconitum variegatum,native
 Actaea spicata,native
 Adelanthus decipiens,NA
 Adenocarpus complicatus aggr.,native
-Adenostyles alliariae,NA
+Adenostyles alliariae,native
 Adenostyles alpina,native
 Adiantum capillus-veneris,NA
 Adiantum reniforme,NA
@@ -56,16 +56,16 @@ Agrostis stolonifera,native
 Agrostis tileni,NA
 Agrostis vinealis,NA
 Agrostis x dimorpholemma,native
-Agrostis x murbeckii,NA
+Agrostis x murbeckii,native
 Agrostis x sanionis,native
 Ailanthus altissima,neophyte
 Aira caryophyllea,native
-Aira cupaniana,NA
+Aira cupaniana,native
 Aira hercynica,NA
 Aira praecox,native
-Airopsis tenella,NA
-Ajuga chamaepitys,NA
-Ajuga pyramidalis,NA
+Airopsis tenella,native
+Ajuga chamaepitys,native
+Ajuga pyramidalis,native
 Ajuga reptans,native
 Albizia julibrissin,NA
 Alchemilla alpigena,NA
@@ -74,21 +74,21 @@ Alchemilla amphisericea,NA
 Alchemilla borderei,NA
 Alchemilla catalaunica,native
 Alchemilla connivens,NA
-Alchemilla coriacea,NA
+Alchemilla coriacea,native
 Alchemilla effusa,NA
 Alchemilla flabellata,NA
-Alchemilla fulgens,NA
+Alchemilla fulgens,native
 Alchemilla fulgida,NA
-Alchemilla glabra,NA
+Alchemilla glabra,native
 Alchemilla hispanica,NA
 Alchemilla hoppeana aggr.,NA
 Alchemilla hoppeaniformis,NA
 Alchemilla inconcinna,NA
-Alchemilla rugulosa,NA
+Alchemilla rugulosa,native
 Alchemilla saxatilis,NA
 Alchemilla sierrae,NA
-Alchemilla straminea,NA
-Alchemilla subalpina,NA
+Alchemilla straminea,native
+Alchemilla subalpina,native
 Alchemilla transiens,NA
 Alchemilla vetteri,NA
 Alchemilla xanthochlora,native
@@ -97,18 +97,18 @@ Alisma plantago-aquatica,native
 Alkanna tinctoria,native
 Alliaria petiolata,native
 Allium ampeloprasum,native
-Allium carinatum,NA
-Allium ericetorum aggr.,NA
+Allium carinatum,native
+Allium ericetorum aggr.,native
 Allium guttatum,NA
 Allium lusitanicum,NA
 Allium massaessylum,native
 Allium moly,NA
 Allium oleraceum,native
 Allium palentinum,NA
-Allium paniculatum,NA
+Allium paniculatum,native
 Allium roseum,archaeophyte
 Allium schoenoprasum aggr.,NA
-Allium scorzonerifolium,NA
+Allium scorzonerifolium,native
 Allium sphaerocephalon,native
 Allium stamineum,archaeophyte
 Allium triquetrum,native
@@ -123,7 +123,7 @@ Allosorus tinaei,NA
 Alnus glutinosa aggr.,native
 Alnus incana,NA
 Alopecurus aequalis,native
-Alopecurus arundinaceus,NA
+Alopecurus arundinaceus,native
 Alopecurus bulbosus,NA
 Alopecurus geniculatus,NA
 Alopecurus myosuroides,archaeophyte
@@ -145,27 +145,27 @@ Amaranthus graecizans,archaeophyte
 Amaranthus hybridus aggr.,neophyte
 Amaranthus powellii,neophyte
 Amaranthus retroflexus,neophyte
-Ambrosia artemisiifolia,NA
+Ambrosia artemisiifolia,neophyte
 Amelanchier ovalis,NA
 Ammi majus,archaeophyte
 Ammi visnaga,archaeophyte
 Ammophila arenaria aggr.,native
 Anacamptis coriophora aggr.,native
-Anacamptis morio aggr.,NA
-Anacamptis palustris aggr.,NA
+Anacamptis morio aggr.,native
+Anacamptis palustris aggr.,native
 Anacamptis pyramidalis,native
 Anacyclus clavatus,archaeophyte
 Anagallis arvensis,archaeophyte
 Anagallis foemina,archaeophyte
 Anagallis minima,NA
 Anagallis monelli,native
-Anagallis tenella,NA
+Anagallis tenella,native
 Anarrhinum bellidifolium,native
 Anarrhinum duriminium,NA
 Anarrhinum longipedicellatum,NA
 Anarrhinum x intermedium,NA
 Anchusa azurea,archaeophyte
-Anchusa calcarea,NA
+Anchusa calcarea,native
 Anchusa undulata,archaeophyte
 Andreaea rothii,NA
 Androsace cantabrica,NA
@@ -175,7 +175,7 @@ Androsace maxima,NA
 Androsace villosa,NA
 Androsace vitaliana,NA
 Andryala integrifolia,native
-Andryala ragusina,NA
+Andryala ragusina,native
 Anemonastrum narcissiflorum,NA
 Anemone coronaria,NA
 Anemone nemorosa,native
@@ -198,7 +198,7 @@ Anisantha rubens,archaeophyte
 Anisantha sterilis,archaeophyte
 Anisantha tectorum,archaeophyte
 Anogramma leptophylla,native
-Anomodon viticulosus,native
+Anomodon viticulosus,bryophyte
 Antennaria carpatica,NA
 Antennaria dioica,NA
 Anthemis alpestris,NA
@@ -213,13 +213,13 @@ Anthoxanthum odoratum,native
 Anthoxanthum ovatum,native
 Anthriscus caucalis,native
 Anthriscus sylvestris,native
-Anthyllis cornicina,NA
+Anthyllis cornicina,native
 Anthyllis lotoides,native
 Anthyllis montana,NA
 Anthyllis vulneraria,native
 Antinoria agrostidea,native
 Antirrhinum braun-blanquetii,native
-Antirrhinum graniticum,NA
+Antirrhinum graniticum,native
 Antirrhinum majus,native
 Antirrhinum meonanthum,NA
 Antirrhinum molle,NA
@@ -246,7 +246,7 @@ Arabis planisiliqua,NA
 Arabis sagittata,NA
 Arabis scabra,NA
 Arabis serpillifolia,NA
-Arabis stenocarpa,NA
+Arabis stenocarpa,native
 Arabis verna,NA
 Arbutus unedo,native
 Archidium alternifolium,NA
@@ -266,31 +266,31 @@ Arenaria purpurascens,NA
 Arenaria querioides,NA
 Arenaria racemosa,NA
 Arenaria serpyllifolia,native
-Argentina anserina,NA
+Argentina anserina,native
 Argyrolobium zanonii,NA
 Arisarum simorrhinum,NA
 Arisarum vulgare,native
 Aristavena setacea,NA
 Aristolochia paucinervis,native
-Aristolochia pistolochia,NA
+Aristolochia pistolochia,native
 Armeria alliacea,NA
 Armeria alpina,NA
-Armeria arenaria,NA
+Armeria arenaria,native
 Armeria beirana,NA
 Armeria berlengensis,NA
 Armeria bigerrensis,NA
 Armeria caballeroi,NA
 Armeria cantabrica,NA
-Armeria cantabrica x langei,NA
+Armeria cantabrica x langei,native
 Armeria castellana,NA
 Armeria ciliata,native
 Armeria ciliata x langei,NA
 Armeria duriaei,NA
 Armeria eriophylla,NA
-Armeria euscadiensis,NA
+Armeria euscadiensis,native
 Armeria filicaulis,NA
 Armeria humilis aggr.,NA
-Armeria langei,NA
+Armeria langei,native
 Armeria maritima,NA
 Armeria merinoi,NA
 Armeria pubigera,NA
@@ -313,7 +313,7 @@ Artemisia vulgaris,native
 Arum cylindraceum,native
 Arum italicum,native
 Arum maculatum,native
-Aruncus dioicus,NA
+Aruncus dioicus,native
 Arundo donax,neophyte
 Asparagus acutifolius,native
 Asparagus aphyllus,native
@@ -323,13 +323,13 @@ Asperula aristata,NA
 Asperula arvensis,native
 Asperula cynanchica,NA
 Asperula hirta,NA
-Asperula pyrenaica,NA
+Asperula pyrenaica,native
 Asphodelus aestivus,native
 Asphodelus albus,native
 Asphodelus cerasiferus,NA
 Asphodelus fistulosus,NA
 Asphodelus lusitanicus,native
-Asphodelus macrocarpus,NA
+Asphodelus macrocarpus,native
 Asphodelus ramosus,NA
 Asphodelus serotinus,NA
 Asplenium adiantum-nigrum aggr.,native
@@ -359,7 +359,7 @@ Astragalus hamosus,NA
 Astragalus hypoglottis,NA
 Astragalus incanus,NA
 Astragalus monspessulanus,NA
-Astragalus pelecinus,NA
+Astragalus pelecinus,native
 Astragalus sempervirens aggr.,NA
 Astragalus sesameus,NA
 Astrantia major,native
@@ -398,10 +398,10 @@ Bassia prostrata,native
 Bazzania trilobata,NA
 Bellardia trixago,native
 Bellardiochloa variegata,NA
-Bellis annua,NA
+Bellis annua,native
 Bellis perennis,native
-Bellis sylvestris,NA
-Berberis garciae,NA
+Bellis sylvestris,native
+Berberis garciae,native
 Berberis hispanica,NA
 Berberis vulgaris,NA
 Berula erecta,native
@@ -411,9 +411,9 @@ Betula pendula,native
 Bidens aureus,neophyte
 Bidens frondosus,neophyte
 Bidens tripartitus,native
-Biscutella auriculata,NA
+Biscutella auriculata,native
 Biscutella laevigata,native
-Biscutella valentina,NA
+Biscutella valentina,native
 Bistorta officinalis,native
 Bistorta vivipara,native
 Bituminaria bituminosa,native
@@ -422,7 +422,7 @@ Blechnum spicant,native
 Blepharostoma trichophyllum,NA
 Blitum bonus-henricus,native
 Blitum virgatum,native
-Blysmus compressus,NA
+Blysmus compressus,native
 Bolboschoenus maritimus,native
 Bombycilaena erecta,NA
 Borago officinalis,archaeophyte
@@ -436,7 +436,7 @@ Brachytheciastrum velutinum,NA
 Brachythecium albicans,NA
 Brachythecium laetum,NA
 Brachythecium mildeanum,bryophyte
-Brachythecium rivulare,NA
+Brachythecium rivulare,bryophyte
 Brachythecium rutabulum,bryophyte
 Brassica barrelieri,native
 Brassica napus,archaeophyte
@@ -464,7 +464,7 @@ Bryophyta,NA
 Bryum alpinum,NA
 Bryum argenteum,native
 Bryum caespiticium,NA
-Bryum capillare,NA
+Bryum capillare,bryophyte
 Bryum intermedium,NA
 Bryum pseudotriquetrum,NA
 Buddleja davidii,neophyte
@@ -478,28 +478,28 @@ Bupleurum baldense,NA
 Bupleurum falcatum,NA
 Bupleurum fruticescens,NA
 Bupleurum fruticosum,NA
-Bupleurum gerardi,NA
+Bupleurum gerardi,native
 Bupleurum ranunculoides,NA
 Bupleurum rigidum,NA
-Bupleurum tenuissimum,NA
+Bupleurum tenuissimum,native
 Buxus sempervirens,native
 Cakile maritima,NA
 Calamagrostis arundinacea,native
-Calamagrostis pseudophragmites,NA
+Calamagrostis pseudophragmites,native
 Calendula arvensis,archaeophyte
 Calendula suffruticosa,native
 Calepina irregularis,native
 Calliergon coridifolium,NA
 Calliergon giganteum,NA
-Calliergonella cuspidata,NA
+Calliergonella cuspidata,bryophyte
 Callitriche brutia,NA
 Callitriche hamulata,NA
 Callitriche platycarpa,NA
 Callitriche platycarpa aggr.,NA
 Callitriche stagnalis,NA
 Calluna vulgaris,native
-Caltha palustris,NA
-Calypogeia fissa,NA
+Caltha palustris,native
+Calypogeia fissa,bryophyte
 Calypogeia muelleriana,NA
 Calypogeia sphagnicola,NA
 Calypogeia trichomanis,NA
@@ -510,7 +510,7 @@ Camelina microcarpa,archaeophyte
 Camelina sativa,archaeophyte
 Campanula adsurgens,NA
 Campanula arvatica,NA
-Campanula cantabrica,NA
+Campanula cantabrica,native
 Campanula cochleariifolia,NA
 Campanula erinus,native
 Campanula fastigiata,NA
@@ -526,8 +526,8 @@ Campanula scheuchzeri,NA
 Campanula trachelium,native
 Camphorosma monspeliaca,NA
 Campyliadelphus chrysophyllus,NA
-Campylium protensum,NA
-Campylium stellatum,NA
+Campylium protensum,bryophyte
+Campylium stellatum,bryophyte
 Campylophyllum sommerfeltii,NA
 Campylopus flexuosus,NA
 Campylopus fragilis,NA
@@ -537,10 +537,10 @@ Campylopus pyriformis,NA
 Campylopus subulatus,NA
 Canna indica,neophyte
 Capsella bursa-pastoris,archaeophyte
-Cardamine amara,NA
+Cardamine amara,native
 Cardamine flexuosa,native
 Cardamine gallaecica,native
-Cardamine heptaphylla,NA
+Cardamine heptaphylla,native
 Cardamine hirsuta,native
 Cardamine impatiens,native
 Cardamine pentaphyllos,NA
@@ -557,7 +557,7 @@ Carduus nutans aggr.,native
 Carduus pycnocephalus,native
 Carduus tenuiflorus,native
 Carduus x cantabricus,native
-Carex acuta,NA
+Carex acuta,native
 Carex acutiformis,native
 Carex arenaria,native
 Carex asturica,NA
@@ -565,21 +565,21 @@ Carex atrata,NA
 Carex binervis,NA
 Carex brevicollis,NA
 Carex brizoides,NA
-Carex canescens,NA
+Carex canescens,native
 Carex capillaris,NA
 Carex caryophyllea,native
 Carex caudata,native
-Carex cespitosa,NA
+Carex cespitosa,native
 Carex cuprina,native
 Carex davalliana,NA
 Carex demissa,NA
 Carex depauperata,native
-Carex depressa,NA
+Carex depressa,native
 Carex diandra,NA
 Carex digitata,native
 Carex distachya,native
 Carex distans,native
-Carex disticha,NA
+Carex disticha,native
 Carex divisa,native
 Carex divulsa,native
 Carex durieui,NA
@@ -588,48 +588,48 @@ Carex elata,native
 Carex ericetorum,NA
 Carex extensa,NA
 Carex flacca,native
-Carex flava,NA
+Carex flava,native
 Carex furva,NA
 Carex halleriana,NA
 Carex hirta,native
 Carex hispida,NA
-Carex hostiana,NA
+Carex hostiana,native
 Carex humilis,NA
 Carex laevigata,native
-Carex lepidocarpa aggr.,NA
+Carex lepidocarpa aggr.,native
 Carex leporina,native
 Carex liparocarpos,NA
 Carex macrostyla,NA
-Carex mairei,NA
+Carex mairei,native
 Carex montana,NA
 Carex muricata,native
 Carex nigra,NA
 Carex ornithopoda,NA
 Carex pallescens,native
-Carex panicea,NA
+Carex panicea,native
 Carex paniculata,native
 Carex parviflora,NA
 Carex pendula,native
 Carex pilulifera,native
-Carex pseudocyperus,NA
-Carex pulicaris,NA
+Carex pseudocyperus,native
+Carex pulicaris,native
 Carex punctata,native
 Carex pyrenaica,NA
 Carex remota,native
 Carex reuteriana,native
 Carex riparia,native
-Carex rostrata,NA
+Carex rostrata,native
 Carex rupestris,NA
 Carex sempervirens,NA
 Carex spicata,native
 Carex strigosa,native
 Carex sylvatica,native
 Carex umbrosa,native
-Carex vesicaria,NA
+Carex vesicaria,native
 Carex viridula,NA
 Carex x biharica,NA
 Carex x deserta,NA
-Carlina acanthifolia,NA
+Carlina acanthifolia,native
 Carlina acaulis,native
 Carlina corymbosa,native
 Carlina hispanica,native
@@ -639,49 +639,49 @@ Carpobrotus acinaciformis,NA
 Carpobrotus edulis,neophyte
 Carthamus carduncellus,NA
 Carthamus lanatus,archaeophyte
-Carthamus mitissimus,NA
+Carthamus mitissimus,native
 Carum carvi,native
 Carum verticillatum,native
 Castanea sativa,native
-Catabrosa aquatica,NA
-Catananche caerulea,NA
+Catabrosa aquatica,native
+Catananche caerulea,native
 Catapodium marinum,native
 Catapodium rigidum,native
 Caucalis platycarpos,archaeophyte
-Celtica gigantea,NA
+Celtica gigantea,native
 Celtis australis,archaeophyte
-Centaurea aristata,NA
+Centaurea aristata,native
 Centaurea aspera,native
 Centaurea borjae,NA
 Centaurea calcitrapa,archaeophyte
 Centaurea castellana,NA
 Centaurea corcubionensis,NA
 Centaurea gallaecica,NA
-Centaurea herminii,NA
+Centaurea herminii,native
 Centaurea jacea,native
 Centaurea janeri,NA
 Centaurea lagascana,native
 Centaurea langei,native
 Centaurea limbata,NA
 Centaurea melanosticta,NA
-Centaurea melitensis,NA
-Centaurea micrantha,NA
+Centaurea melitensis,native
+Centaurea micrantha,native
 Centaurea nigra aggr.,native
 Centaurea ornata,native
-Centaurea paniculata,NA
+Centaurea paniculata,native
 Centaurea pullata,NA
 Centaurea rothmaleriana,NA
 Centaurea scabiosa,native
 Centaurea solstitialis,archaeophyte
 Centaurea sphaerocephala,native
 Centaurea x zubiae,NA
-Centaurium chloodes,NA
+Centaurium chloodes,native
 Centaurium erythraea,native
 Centaurium littorale,NA
-Centaurium maritimum,NA
+Centaurium maritimum,native
 Centaurium pulchellum,native
 Centaurium quadrifolium,NA
-Centaurium scilloides,NA
+Centaurium scilloides,native
 Centaurium spicatum,NA
 Centaurium tenuiflorum,native
 Centranthus angustifolius,NA
@@ -690,8 +690,8 @@ Centranthus lecoqii,NA
 Centranthus ruber,archaeophyte
 Cephalanthera damasonium,native
 Cephalanthera longifolia,native
-Cephalanthera rubra,NA
-Cephalaria leucantha,NA
+Cephalanthera rubra,native
+Cephalaria leucantha,native
 Cephalozia bicuspidata,NA
 Cephalozia connivens,NA
 Cerastium arvense,native
@@ -707,9 +707,9 @@ Ceratocapnos claviculata,native
 Ceratochloa cathartica,neophyte
 Ceratodon purpureus,NA
 Ceratophyllum demersum,NA
-Cerinthe glabra,NA
+Cerinthe glabra,native
 Chaenorhinum origanifolium,NA
-Chaenorhinum rubrifolium,NA
+Chaenorhinum rubrifolium,native
 Chaerophyllum aureum,native
 Chaerophyllum hirsutum,native
 Chaerophyllum nodosum,native
@@ -734,13 +734,13 @@ Cichorium intybus,archaeophyte
 Circaea lutetiana,native
 Cirriphyllum crassinervium,NA
 Cirriphyllum piliferum,NA
-Cirsium acaulon,NA
+Cirsium acaulon,native
 Cirsium arvense,native
 Cirsium carniolicum,NA
 Cirsium eriophorum,native
 Cirsium ferox,NA
 Cirsium filipendulum,native
-Cirsium heterophyllum,NA
+Cirsium heterophyllum,native
 Cirsium monspessulanum,native
 Cirsium odontolepis,native
 Cirsium oleraceum,native
@@ -756,10 +756,10 @@ Cirsium welwitschii,NA
 Cistanche phelypaea,NA
 Cistus albidus,NA
 Cistus crispus,NA
-Cistus ladanifer,NA
+Cistus ladanifer,native
 Cistus laurifolius,NA
-Cistus populifolius,NA
-Cistus psilosepalus,NA
+Cistus populifolius,native
+Cistus psilosepalus,native
 Cistus salviifolius,native
 Cistus x hybridus,NA
 Cistus x laxus,native
@@ -771,7 +771,7 @@ Clematis vitalba,native
 Clematis viticella,archaeophyte
 Climacium dendroides,NA
 Clinopodium acinos,native
-Clinopodium alpinum,NA
+Clinopodium alpinum,native
 Clinopodium graveolens,NA
 Clinopodium menthifolium aggr.,native
 Clinopodium nepeta,native
@@ -779,7 +779,7 @@ Clinopodium vulgare,native
 Clypeola jonthlaspi,NA
 Cochlearia aestuaria,native
 Cochlearia aragonensis,NA
-Cochlearia danica,NA
+Cochlearia danica,native
 Cochlearia officinalis,NA
 Coincya monensis aggr.,native
 Colchicum autumnale,native
@@ -787,16 +787,16 @@ Colchicum montanum,native
 Coleostephus myconis,archaeophyte
 Comarum palustre,NA
 Conium maculatum,archaeophyte
-Conocephalum conicum,NA
+Conocephalum conicum,bryophyte
 Conopodium arvense aggr.,native
 Conopodium majus,native
-Conopodium marianum,NA
+Conopodium marianum,native
 Conopodium pyrenaeum,native
 Conopodium subcarneum,native
 Consolida ajacis,archaeophyte
 Consolida pubescens,NA
 Consolida regalis,archaeophyte
-Convallaria majalis,NA
+Convallaria majalis,native
 Convolvulus arvensis,native
 Convolvulus cantabrica,NA
 Convolvulus lineatus,NA
@@ -804,16 +804,16 @@ Corema album,native
 Coris monspeliensis,NA
 Cornus sanguinea,native
 Coronilla minima,NA
-Coronilla repanda,NA
+Coronilla repanda,native
 Coronilla scorpioides,archaeophyte
-Coronilla valentina,NA
+Coronilla valentina,native
 Corrigiola litoralis,native
 Corrigiola telephiifolia,native
 Cortaderia selloana,neophyte
 Corydalis cava,native
 Corylus avellana,native
 Corynephorus canescens,native
-Cota triumfettii,NA
+Cota triumfettii,native
 Cotoneaster coriaceus,neophyte
 Cotoneaster integerrimus,NA
 Cotula australis,neophyte
@@ -834,10 +834,10 @@ Crepis capillaris,native
 Crepis foetida,archaeophyte
 Crepis lampsanoides,native
 Crepis nicaeensis,NA
-Crepis paludosa,NA
+Crepis paludosa,native
 Crepis pulchra,native
 Crepis pygmaea,NA
-Crepis pyrenaica,NA
+Crepis pyrenaica,native
 Crepis sancta,NA
 Crepis vesicaria,archaeophyte
 Crithmum maritimum,native
@@ -851,26 +851,26 @@ Cruciata glabra,native
 Cruciata glabra ,NA
 Cruciata laevipes,native
 Cruciata pedemontana,native
-Crupina vulgaris,NA
+Crupina vulgaris,native
 Crypsis alopecuroides,native
 Crypsis schoenoides,NA
 Cryptogramma crispa,NA
-Ctenidium molluscum,NA
+Ctenidium molluscum,bryophyte
 Ctenopsis delicatula,NA
 Culcita macrocarpa,native
-Cuscuta approximata,NA
+Cuscuta approximata,native
 Cuscuta campestris,neophyte
 Cuscuta epithymum,NA
 Cuscuta europaea,native
 Cuscuta nivea,NA
 Cutandia maritima,NA
 Cyanus segetum,archaeophyte
-Cyanus triumfettii aggr.,NA
+Cyanus triumfettii aggr.,native
 Cyclodictyon laetevirens,NA
 Cyclosorus pozoi,native
 Cymbalaria muralis,archaeophyte
 Cynodon dactylon,archaeophyte
-Cynoglossum cheirifolium,NA
+Cynoglossum cheirifolium,native
 Cynoglossum creticum,native
 Cynoglossum dioscoridis,native
 Cynosurus cristatus,native
@@ -885,9 +885,9 @@ Cyperus longus,native
 Cyperus michelianus,native
 Cyperus rotundus,archaeophyte
 Cystopteris fragilis aggr.,native
-Cytinus hypocistis,NA
-Cytisus cantabricus,NA
-Cytisus commutatus,NA
+Cytinus hypocistis,native
+Cytisus cantabricus,native
+Cytisus commutatus,native
 Cytisus fontanesii,NA
 Cytisus grandiflorus,native
 Cytisus hirsutus,native
@@ -895,15 +895,15 @@ Cytisus multiflorus,NA
 Cytisus oromediterraneus,native
 Cytisus scoparius,native
 Cytisus striatus,native
-Daboecia cantabrica,NA
+Daboecia cantabrica,native
 Dactylis glomerata,native
 Dactylorhiza elata,native
-Dactylorhiza incarnata,NA
+Dactylorhiza incarnata,native
 Dactylorhiza insularis,NA
 Dactylorhiza maculata aggr.,native
-Dactylorhiza majalis,NA
-Dactylorhiza sambucina,NA
-Dactylorhiza viridis,NA
+Dactylorhiza majalis,native
+Dactylorhiza sambucina,native
+Dactylorhiza viridis,native
 Danthonia decumbens,native
 Daphne cneorum,NA
 Daphne gnidium,native
@@ -911,36 +911,36 @@ Daphne laureola,native
 Dasiphora fruticosa,NA
 Datura stramonium,neophyte
 Daucus carota,native
-Daucus durieua,NA
+Daucus durieua,native
 Davallia canariensis,native
 Delairea odorata,neophyte
 Delphinium gracile,NA
 Delphinium peregrinum,native
 Delphinium verdunense,native
 Deschampsia cespitosa,native
-Deschampsia media aggr.,NA
+Deschampsia media aggr.,native
 Descurainia tanacetifolia,native
 Dethawia splendens,NA
 Dianthus armeria,native
 Dianthus carthusianorum,NA
 Dianthus cintranus,NA
-Dianthus deltoides,NA
-Dianthus hyssopifolius,NA
+Dianthus deltoides,native
+Dianthus hyssopifolius,native
 Dianthus langeanus,NA
 Dianthus laricifolius,NA
 Dianthus legionensis,NA
 Dianthus lusitanus,native
 Dianthus monspessulanus,NA
 Dianthus pungens aggr.,NA
-Dianthus superbus,NA
+Dianthus superbus,native
 Dianthus x helveticorum,native
 Dichondra micrantha,neophyte
 Dichoropetalum carvifolia,native
 Dicranella heteromalla,NA
 Dicranodontium denudatum,NA
-Dicranum scoparium,NA
+Dicranum scoparium,bryophyte
 Dicranum scottianum,NA
-Dicranum undulatum,NA
+Dicranum undulatum,bryophyte
 Digitalis parviflora,native
 Digitalis purpurea,native
 Digitalis thapsi,NA
@@ -948,19 +948,19 @@ Digitaria ischaemum,archaeophyte
 Digitaria sanguinalis,archaeophyte
 Dioscorea communis,native
 Dipcadi serotinum,NA
-Diplophyllum albicans,NA
+Diplophyllum albicans,bryophyte
 Diplotaxis catholica,native
-Diplotaxis erucoides,NA
+Diplotaxis erucoides,native
 Diplotaxis muralis,archaeophyte
 Diplotaxis tenuifolia,archaeophyte
 Dipsacus fullonum,native
 Ditrichum punctulatum,NA
 Dittrichia graveolens,archaeophyte
 Dittrichia viscosa,archaeophyte
-Doronicum austriacum,NA
+Doronicum austriacum,native
 Doronicum carpetanum,native
 Doronicum grandiflorum,NA
-Doronicum pardalianches  aggr.,NA
+Doronicum pardalianches  aggr.,native
 Doronicum plantagineum,native
 Dorycnium hirsutum,native
 Dorycnium pentaphyllum aggr.,NA
@@ -978,7 +978,7 @@ Drimia fugax,NA
 Drosera intermedia,NA
 Drosera longifolia,NA
 Drosera rotundifolia,NA
-Drymocallis rupestris,NA
+Drymocallis rupestris,native
 Drymochloa lasto,bryophyte
 Drymochloa sylvatica,bryophyte
 Dryopteris aemula,native
@@ -986,16 +986,16 @@ Dryopteris affinis aggr.,native
 Dryopteris carthusiana,native
 Dryopteris corleyi,NA
 Dryopteris dilatata,native
-Dryopteris expansa,NA
+Dryopteris expansa,native
 Dryopteris filix-mas,native
 Dryopteris guanchica,native
 Dryopteris mindshelkensis,NA
 Dryopteris oreades,NA
-Dumortiera hirsuta,NA
+Dumortiera hirsuta,bryophyte
 Dysphania ambrosioides,neophyte
-Dysphania botrys,NA
+Dysphania botrys,native
 Dysphania pumilio,neophyte
-Echinaria capitata,NA
+Echinaria capitata,native
 Echinochloa crus-galli,archaeophyte
 Echinops ritro,NA
 Echinospartum lusitanicum,NA
@@ -1012,7 +1012,7 @@ Eleocharis bonariensis,NA
 Eleocharis multicaulis,native
 Eleocharis palustris,native
 Eleocharis parvula,NA
-Eleocharis quinqueflora,NA
+Eleocharis quinqueflora,native
 Eleocharis uniglumis,NA
 Eleusine indica,neophyte
 Elymus caninus,native
@@ -1032,30 +1032,30 @@ Epilobium alpestre,NA
 Epilobium alsinifolium,NA
 Epilobium anagallidifolium,NA
 Epilobium angustifolium,native
-Epilobium collinum,NA
+Epilobium collinum,native
 Epilobium duriaei,NA
 Epilobium hirsutum,native
 Epilobium lanceolatum,native
 Epilobium montanum,native
 Epilobium nutans,NA
 Epilobium obscurum,native
-Epilobium palustre,NA
+Epilobium palustre,native
 Epilobium parviflorum,native
 Epilobium tetragonum,native
 Epipactis atrorubens,NA
 Epipactis helleborine aggr.,native
-Epipactis microphylla,NA
-Epipactis palustris,NA
+Epipactis microphylla,native
+Epipactis palustris,native
 Equisetum arvense,native
-Equisetum fluviatile,NA
+Equisetum fluviatile,native
 Equisetum hyemale,native
 Equisetum palustre,native
 Equisetum ramosissimum,native
 Equisetum telmateia,native
 Equisetum variegatum,NA
-Equisetum x litorale,NA
+Equisetum x litorale,native
 Equisetum x moorei ,native
-Eragrostis atrovirens,NA
+Eragrostis atrovirens,native
 Eragrostis minor,archaeophyte
 Eragrostis pectinacea,neophyte
 Eragrostis pilosa,neophyte
@@ -1067,7 +1067,7 @@ Erica cinerea,native
 Erica erigena,NA
 Erica lusitanica,native
 Erica mackaiana,native
-Erica scoparia,NA
+Erica scoparia,native
 Erica tetralix,NA
 Erica umbellata,native
 Erica vagans,native
@@ -1080,14 +1080,14 @@ Erigeron sumatrensis,neophyte
 Erigeron uniflorus,NA
 Erinus alpinus,native
 Eriophorum angustifolium,NA
-Eriophorum latifolium,NA
+Eriophorum latifolium,native
 Eriophorum vaginatum,NA
 Erodium botrys,archaeophyte
 Erodium carvifolium,NA
 Erodium ciconium,native
 Erodium cicutarium,native
 Erodium daucoides,NA
-Erodium foetidum,NA
+Erodium foetidum,native
 Erodium glandulosum,NA
 Erodium malacoides,native
 Erodium moschatum,native
@@ -1120,12 +1120,12 @@ Euphorbia angulata,native
 Euphorbia chamaesyce,native
 Euphorbia characias,native
 Euphorbia dulcis,native
-Euphorbia esula,NA
+Euphorbia esula,native
 Euphorbia exigua,archaeophyte
 Euphorbia falcata,native
 Euphorbia flavicoma,NA
 Euphorbia helioscopia,archaeophyte
-Euphorbia hirsuta,NA
+Euphorbia hirsuta,native
 Euphorbia hyberna,native
 Euphorbia illirica,native
 Euphorbia maculata,neophyte
@@ -1145,18 +1145,18 @@ Euphorbia prostrata,neophyte
 Euphorbia pyrenaica,NA
 Euphorbia segetalis,native
 Euphorbia serrata,native
-Euphorbia sulcata,NA
+Euphorbia sulcata,native
 Euphorbia terracina,native
 Euphorbia uliginosa,NA
-Euphrasia alpina,NA
+Euphrasia alpina,native
 Euphrasia hirtella,native
 Euphrasia micrantha,NA
 Euphrasia minima,NA
 Euphrasia nemorosa,native
 Euphrasia pectinata,native
-Euphrasia rostkoviana,NA
+Euphrasia rostkoviana,native
 Euphrasia salisburgensis,NA
-Euphrasia stricta,NA
+Euphrasia stricta,native
 Eurhynchium striatum,bryophyte
 Exaculum pusillum,NA
 Fagopyrum esculentum,archaeophyte
@@ -1164,16 +1164,16 @@ Fagus sylvatica,native
 Fallopia convolvulus,native
 Fallopia dumetorum,native
 Fascicularia bicolor,neophyte
-Ferula communis,NA
+Ferula communis,native
 Ferula communis ,NA
 Ferulago capillifolia,NA
 Ferulago lutea,NA
 Festuca agustinii,NA
 Festuca altopyrenaica,NA
-Festuca ampla,NA
+Festuca ampla,native
 Festuca arenaria,NA
 Festuca arvernensis,NA
-Festuca braun-blanquetii,NA
+Festuca braun-blanquetii,native
 Festuca brigantina,NA
 Festuca burgundiana,NA
 Festuca burnatii,NA
@@ -1187,28 +1187,28 @@ Festuca glacialis,NA
 Festuca graniticola,NA
 Festuca gredensis,NA
 Festuca henriquesii,NA
-Festuca heteromalla,NA
+Festuca heteromalla,native
 Festuca heterophylla,native
 Festuca hystrix,NA
 Festuca iberica,NA
-Festuca inops,NA
+Festuca inops,native
 Festuca juncifolia,native
 Festuca laevigata,NA
-Festuca lemanii,NA
-Festuca marginata,NA
+Festuca lemanii,native
+Festuca marginata,native
 Festuca microphylla,native
 Festuca ovina,native
 Festuca picoeuropeana,NA
 Festuca pyrenaica,NA
 Festuca querana,NA
-Festuca rectifolia,NA
+Festuca rectifolia,native
 Festuca rivas-martinezii,native
-Festuca rivularis,NA
+Festuca rivularis,native
 Festuca rothmaleri,native
 Festuca rubra aggr.,native
 Festuca stricta,NA
 Festuca summilusitana aggr.,native
-Festuca trichophylla,NA
+Festuca trichophylla,native
 Festuca vasconcensis,native
 Festuca violacea,NA
 Festuca vivipara,NA
@@ -1226,11 +1226,11 @@ Filago pyramidata,native
 Filago ramosissima,NA
 Filipendula ulmaria,native
 Filipendula vulgaris,native
-Fissidens adianthoides,NA
+Fissidens adianthoides,bryophyte
 Fissidens bryoides,NA
-Fissidens cristatus,NA
+Fissidens cristatus,bryophyte
 Fissidens curnovii,NA
-Fissidens grandifrons,NA
+Fissidens grandifrons,bryophyte
 Fissidens osmundoides,NA
 Fissidens polyphyllus,NA
 Fissidens serrulatus,NA
@@ -1249,7 +1249,7 @@ Fraxinus angustifolia,native
 Fraxinus excelsior,native
 Fraxinus excelsior x angustifolia,native
 Fraxinus ornus,NA
-Fritillaria pyrenaica,NA
+Fritillaria pyrenaica,native
 Frullania tamarisci,NA
 Frullania tamariscii,NA
 Fumana ericifolia,NA
@@ -1267,33 +1267,33 @@ Fumaria parviflora,archaeophyte
 Fumaria reuteri,native
 Fumaria sepium,native
 Fumaria vaillantii,archaeophyte
-Funaria hygrometrica,native
+Funaria hygrometrica,bryophyte
 Gagea foliosa,NA
 Gagea liotardii,native
-Gagea lutea,NA
-Gagea nevadensis,NA
+Gagea lutea,native
+Gagea nevadensis,native
 Gagea pratensis,NA
-Gagea pusilla,NA
+Gagea pusilla,native
 Gagea soleirolii,native
 Galactites tomentosus,native
 Galatella aragonensis,NA
-Galatella linosyris,NA
-Galatella sedifolia,NA
+Galatella linosyris,native
+Galatella sedifolia,native
 Galeopsis angustifolia,native
 Galeopsis ladanum,native
 Galeopsis tetrahit,native
 Galinsoga parviflora,neophyte
 Galinsoga quadriradiata,neophyte
 Galium aparine,native
-Galium arenarium,NA
-Galium boreale,NA
+Galium arenarium,native
+Galium boreale,native
 Galium broterianum,native
-Galium corrudifolium,NA
-Galium debile,NA
+Galium corrudifolium,native
+Galium debile,native
 Galium divaricatum,native
 Galium elongatum,native
-Galium estebanii,NA
-Galium glaucum,NA
+Galium estebanii,native
+Galium glaucum,native
 Galium helodes,native
 Galium lucidum,native
 Galium lucidum x mollugo,native
@@ -1309,8 +1309,8 @@ Galium pyrenaicum,native
 Galium rotundifolium,native
 Galium saxatile aggr.,native
 Galium spurium,native
-Galium sylvaticum,NA
-Galium sylvaticum ,native
+Galium sylvaticum,native
+Galium sylvaticum ,NA
 Galium tricornutum,archaeophyte
 Galium uliginosum,native
 Galium verrucosum,native
@@ -1322,7 +1322,7 @@ Genista anglica,NA
 Genista berberidea,NA
 Genista carpetana,NA
 Genista cinerascens,NA
-Genista cinerea,NA
+Genista cinerea,native
 Genista falcata,native
 Genista florida,native
 Genista hispanica,NA
@@ -1333,7 +1333,7 @@ Genista monspessulana,NA
 Genista obtusiramea,NA
 Genista pilosa,NA
 Genista pulchella,NA
-Genista sagittalis,NA
+Genista sagittalis,native
 Genista sanabrensis,NA
 Genista scorpius,NA
 Genista teretifolia,NA
@@ -1350,7 +1350,7 @@ Gentiana pneumonanthe,native
 Gentiana verna,NA
 Gentianella campestris,NA
 Gentianella ciliata,NA
-Geranium cinereum,NA
+Geranium cinereum,native
 Geranium columbinum,native
 Geranium dissectum,native
 Geranium dolomiticum,NA
@@ -1367,8 +1367,8 @@ Geranium sanguineum,native
 Geranium subargenteum,NA
 Geranium sylvaticum,native
 Geum hispidum,NA
-Geum montanum,NA
-Geum pyrenaicum,NA
+Geum montanum,native
+Geum pyrenaicum,native
 Geum rivale,native
 Geum sylvaticum,native
 Geum urbanum,native
@@ -1389,9 +1389,9 @@ Globularia repens,NA
 Globularia salicina,NA
 Globularia vulgaris,NA
 Glyceria declinata,native
-Glyceria maxima,NA
+Glyceria maxima,native
 Glyceria notata,native
-Glyceria spicata,NA
+Glyceria spicata,native
 Gnaphalium coarctatum,neophyte
 Gnaphalium hoppeanum,NA
 Gnaphalium pensylvanicum,neophyte
@@ -1399,14 +1399,14 @@ Gnaphalium purpureum,neophyte
 Gnaphalium supinum,NA
 Gnaphalium sylvaticum,native
 Gnaphalium uliginosum,native
-Gratiola officinalis,NA
+Gratiola officinalis,native
 Grimmia orbicularis,NA
 Grimmia trichophylla,NA
 Groenlandia densa,NA
 Gymnadenia conopsea,native
 Gymnadenia gabasiana,NA
-Gymnadenia nigra,NA
-Gymnocarpium dryopteris,NA
+Gymnadenia nigra,native
+Gymnocarpium dryopteris,native
 Gymnocarpium robertianum,NA
 Gymnocolea inflata,NA
 Gymnostomum aeruginosum,NA
@@ -1418,7 +1418,7 @@ Halimione portulacoides,NA
 Halimium alyssoides,NA
 Halimium calycinum,NA
 Halimium halimifolium,NA
-Halimium lasianthum,NA
+Halimium lasianthum,native
 Halimium ocymoides,NA
 Halimium umbellatum,NA
 Harpanthus scutatus,NA
@@ -1432,9 +1432,9 @@ Helianthemum cinereum,NA
 Helianthemum croceum,NA
 Helianthemum hirtum,NA
 Helianthemum italicum,NA
-Helianthemum ledifolium,NA
-Helianthemum nummularium aggr.,NA
-Helianthemum salicifolium,NA
+Helianthemum ledifolium,native
+Helianthemum nummularium aggr.,native
+Helianthemum salicifolium,native
 Helianthemum violaceum,NA
 Helianthemum x rivasmartinezii,NA
 Helianthus x laetiflorus,neophyte
@@ -1460,13 +1460,13 @@ Herniaria ciliolata,native
 Herniaria fruticosa,NA
 Herniaria glabra,native
 Herniaria hirsuta,native
-Herniaria latifolia,NA
+Herniaria latifolia,native
 Herniaria lusitanica,native
-Herniaria maritima,NA
+Herniaria maritima,native
 Herniaria scabrida,native
 Hesperis matronalis,native
-Heterocladium heteropterum,NA
-Heterocladium heteropterum,NA
+Heterocladium heteropterum,bryophyte
+Heterocladium heteropterum,bryophyte
 Hieracium amplexicaule aggr.,NA
 Hieracium aragonense,NA
 Hieracium arevacorum,NA
@@ -1476,13 +1476,13 @@ Hieracium bourgaei,native
 Hieracium brevifolium,NA
 Hieracium cavanillesianum,NA
 Hieracium cerinthoides,NA
-Hieracium compositum,NA
+Hieracium compositum,native
 Hieracium cordatum,NA
 Hieracium diaphanoides,NA
 Hieracium glaucinum aggr.,NA
 Hieracium humile,NA
 Hieracium inuloides,NA
-Hieracium juranum aggr.,NA
+Hieracium juranum aggr.,native
 Hieracium lachenalii,native
 Hieracium lachenalii aggr.,native
 Hieracium laevigatum,native
@@ -1491,7 +1491,7 @@ Hieracium lamprophyllum aggr.,NA
 Hieracium lawsonii,NA
 Hieracium legionense,NA
 Hieracium loscosianum,NA
-Hieracium maculatum,NA
+Hieracium maculatum,native
 Hieracium merxmuelleri,NA
 Hieracium mixtiforme,NA
 Hieracium mixtum,NA
@@ -1508,13 +1508,13 @@ Hieracium recensitum,NA
 Hieracium sabaudum aggr.,native
 Hieracium schmidtii aggr.,NA
 Hieracium umbellatum,native
-Hieracium umbrosum,NA
+Hieracium umbrosum,native
 Hieracium vegaradanum,NA
-Himantoglossum hircinum,NA
+Himantoglossum hircinum,native
 Himantoglossum robertianum,NA
 Hippocrepis ciliata,NA
-Hippocrepis commutata,NA
-Hippocrepis comosa,NA
+Hippocrepis commutata,native
+Hippocrepis comosa,native
 Hippocrepis emerus,native
 Hippocrepis scorpioides,NA
 Hippuris vulgaris,NA
@@ -1525,12 +1525,12 @@ Holcus gayanus,native
 Holcus lanatus,native
 Holcus mollis,native
 Holosteum umbellatum,native
-Homalothecium lutescens,NA
-Homalothecium sericeum,native
+Homalothecium lutescens,bryophyte
+Homalothecium sericeum,bryophyte
 Homogyne alpina,NA
 Honckenya peploides,NA
-Hookeria lucens,NA
-Hordelymus europaeus,NA
+Hookeria lucens,bryophyte
+Hordelymus europaeus,native
 Hordeum bulbosum,native
 Hordeum geniculatum,native
 Hordeum marinum,native
@@ -1545,31 +1545,31 @@ Humulus lupulus,native
 Huperzia selago,NA
 Hyacinthoides hispanica,native
 Hyacinthoides non-scripta,native
-Hyacinthoides paivae,NA
+Hyacinthoides paivae,native
 Hydrocotyle bonariensis,NA
 Hydrocotyle vulgaris,NA
 Hylocomiadelphus triquetrus,bryophyte
-Hylocomium splendens,NA
-Hylotelephium telephium,NA
+Hylocomium splendens,bryophyte
+Hylotelephium telephium,native
 Hymenophyllum tunbrigense,native
 Hymenostylium recurvirostrum,NA
 Hyocomium armoricum,NA
 Hyoscyamus albus,archaeophyte
 Hyoscyamus niger,archaeophyte
-Hyparrhenia sinaica,NA
+Hyparrhenia sinaica,native
 Hypecoum imberbe,native
-Hypecoum pendulum,NA
+Hypecoum pendulum,native
 Hypecoum procumbens,NA
 Hypericum androsaemum,native
 Hypericum canariense,NA
-Hypericum caprifolium,NA
+Hypericum caprifolium,native
 Hypericum elodes,NA
 Hypericum hircinum,neophyte
 Hypericum hirsutum,native
 Hypericum humifusum,native
 Hypericum hyssopifolium,NA
 Hypericum linarifolium aggr.,native
-Hypericum maculatum,NA
+Hypericum maculatum,native
 Hypericum montanum,native
 Hypericum nummularium,NA
 Hypericum perforatum,native
@@ -1577,11 +1577,11 @@ Hypericum pulchrum,native
 Hypericum richeri,native
 Hypericum tetrapterum,native
 Hypericum undulatum,native
-Hypnum andoi,NA
-Hypnum cupressiforme,native
-Hypnum imponens,NA
-Hypnum jutlandicum,NA
-Hypnum uncinulatum,NA
+Hypnum andoi,bryophyte
+Hypnum cupressiforme,bryophyte
+Hypnum imponens,bryophyte
+Hypnum jutlandicum,bryophyte
+Hypnum uncinulatum,bryophyte
 Hypochaeris glabra,native
 Hypochaeris radicata,native
 Hypopitys monotropa,native
@@ -1592,12 +1592,12 @@ Iberis saxatilis,NA
 Ilex aquifolium,native
 Illecebrum verticillatum,native
 Impatiens balfourii,neophyte
-Inula aspera,NA
+Inula aspera,native
 Inula conyzae,native
 Inula helenioides,NA
-Inula helvetica,NA
+Inula helvetica,native
 Inula montana,native
-Inula salicina,NA
+Inula salicina,native
 Ionopsidium abulense,NA
 Ipomoea indica,neophyte
 Ipomoea purpurea,neophyte
@@ -1607,20 +1607,20 @@ Iris graminea,native
 Iris latifolia,native
 Iris pseudacorus,native
 Iris spuria,NA
-Iris x germanica,NA
+Iris x germanica,neophyte
 Isatis platyloba,NA
 Isatis tinctoria,archaeophyte
 Isoetes histrix,NA
 Isoetes longissima,NA
 Isoetes setacea,NA
 Isoetes velata,NA
-Isolepis cernua,NA
+Isolepis cernua,native
 Isolepis fluitans,NA
-Isolepis setacea,NA
-Isopyrum thalictroides,NA
+Isolepis setacea,native
+Isopyrum thalictroides,native
 Isothecium alopecuroides,NA
 Isothecium myosuroides,NA
-Ixia paniculata,NA
+Ixia paniculata,neophyte
 Jacobaea adonidifolia,native
 Jacobaea aquatica,native
 Jacobaea boissieri,NA
@@ -1638,7 +1638,7 @@ Jasione maritima,NA
 Jasione montana,native
 Jasione sessiliflora,native
 Jasminum fruticans,native
-Jasonia tuberosa,NA
+Jasonia tuberosa,native
 Jubula hutchinsiae,NA
 Juglans regia,archaeophyte
 Juncus acutiflorus,native
@@ -1648,7 +1648,7 @@ Juncus articulatus,native
 Juncus bufonius,native
 Juncus bulbosus,native
 Juncus capitatus,native
-Juncus compressus,NA
+Juncus compressus,native
 Juncus conglomeratus,native
 Juncus effusus,native
 Juncus foliosus,NA
@@ -1665,7 +1665,7 @@ Juncus tenageia,native
 Juncus tenuis,neophyte
 Juncus tenuis x bufonius ,neophyte
 Juncus trifidus,NA
-Juncus x diffusus,NA
+Juncus x diffusus,native
 Jungermannia quadridigitata,NA
 Juniperus communis,native
 Juniperus nana,NA
@@ -1686,11 +1686,11 @@ Knautia arvensis,native
 Knautia dipsacifolia,NA
 Knautia legionensis,native
 Knautia nevadensis,native
-Knautia purpurea,NA
+Knautia purpurea,native
 Knautia subscaposa,NA
 Kobresia myosuroides,NA
 Koeleria crassipes,NA
-Koeleria glauca,NA
+Koeleria glauca,native
 Koeleria macrantha,NA
 Koeleria pyramidata,NA
 Koeleria splendens,NA
@@ -1698,7 +1698,7 @@ Koeleria vallesiana,native
 Kurzia trichoclados,NA
 Lactuca muralis,native
 Lactuca perennis,NA
-Lactuca plumieri,NA
+Lactuca plumieri,native
 Lactuca saligna,native
 Lactuca serriola,archaeophyte
 Lactuca tenerrima,native
@@ -1716,16 +1716,16 @@ Laserpitium eliasii,native
 Laserpitium gallicum,NA
 Laserpitium latifolium,native
 Laserpitium nestleri,native
-Laserpitium prutenicum,NA
+Laserpitium prutenicum,native
 Laserpitium siler,NA
 Lathraea clandestina,native
-Lathraea squamaria,NA
+Lathraea squamaria,native
 Lathyrus angulatus,native
 Lathyrus aphaca,native
-Lathyrus bauhinii,NA
+Lathyrus bauhinii,native
 Lathyrus cicera,native
 Lathyrus clymenum,NA
-Lathyrus filiformis,NA
+Lathyrus filiformis,native
 Lathyrus hirsutus,native
 Lathyrus japonicus,NA
 Lathyrus laevigatus,native
@@ -1735,7 +1735,7 @@ Lathyrus niger,native
 Lathyrus nissolia,native
 Lathyrus ochrus,NA
 Lathyrus palustris,NA
-Lathyrus pannonicus,NA
+Lathyrus pannonicus,native
 Lathyrus pratensis,native
 Lathyrus setifolius,NA
 Lathyrus sphaericus,native
@@ -1744,8 +1744,8 @@ Lathyrus tuberosus,NA
 Lathyrus vernus,NA
 Laurus nobilis,native
 Lavandula latifolia,NA
-Lavandula pedunculata aggr.,NA
-Lavandula stoechas,NA
+Lavandula pedunculata aggr.,native
+Lavandula stoechas,native
 Lavatera arborea,native
 Lavatera cretica,native
 Leersia oryzoides,native
@@ -1754,14 +1754,14 @@ Legousia scabra,archaeophyte
 Lejeunea lamacerina,NA
 Lemna gibba,NA
 Lemna minor,NA
-Lens nigricans,NA
+Lens nigricans,native
 Leontodon bourgaeanus,NA
-Leontodon crispus,NA
+Leontodon crispus,native
 Leontodon hirtus,native
 Leontodon hispidus,native
 Leontodon saxatilis aggr.,native
 Leontodon tingitanus,native
-Leontodon tuberosus,NA
+Leontodon tuberosus,native
 Leopoldia comosa,native
 Lepidium campestre,native
 Lepidium coronopus,archaeophyte
@@ -1772,7 +1772,7 @@ Lepidium hirtum,NA
 Lepidium ruderale,native
 Lepidium subulatum,NA
 Lepidium virginicum,neophyte
-Lepidophorum repandum,NA
+Lepidophorum repandum,native
 Leptobryum pyriforme,NA
 Leucanthemopsis alpina,NA
 Leucanthemopsis flaveola,native
@@ -1782,13 +1782,13 @@ Leucanthemum aligulatum,NA
 Leucanthemum gaudinii,NA
 Leucanthemum vulgare aggr.,native
 Leucanthemum maximum,NA
-Leucanthemum merinoi,NA
+Leucanthemum merinoi,native
 Leucanthemum pluriflorum,native
 Leucanthemum subglaucum,NA
 Leucanthemum sylvaticum,NA
-Leucanthemum virgatum,NA
+Leucanthemum virgatum,native
 Leucobryum glaucum,bryophyte
-Leucobryum juniperoideum,NA
+Leucobryum juniperoideum,bryophyte
 Ligusticum lucidum,native
 Ligustrum lucidum,neophyte
 Ligustrum ovalifolium,neophyte
@@ -1800,13 +1800,13 @@ Limbarda crithmoides,NA
 Limodorum abortivum,NA
 Limonium binervosum,NA
 Limonium humile,NA
-Limonium multiflorum,NA
+Limonium multiflorum,native
 Limonium narbonense,NA
 Limonium ovalifolium,NA
-Limonium virgatum,NA
+Limonium virgatum,native
 Limonium vulgare,NA
 Limosella aquatica,NA
-Linaria aeruginea,NA
+Linaria aeruginea,native
 Linaria alpina,NA
 Linaria amethystea,native
 Linaria angustissima,native
@@ -1832,7 +1832,7 @@ Linum alpinum,NA
 Linum appressum aggr.,NA
 Linum bienne,native
 Linum catharticum,native
-Linum maritimum,NA
+Linum maritimum,native
 Linum milletii,NA
 Linum narbonense,NA
 Linum salsoloides,NA
@@ -1842,7 +1842,7 @@ Linum trigynum,NA
 Linum viscosum,native
 Lipandra polysperma,native
 Lithospermum officinale,native
-Lobelia urens,NA
+Lobelia urens,native
 Lobularia maritima,archaeophyte
 Loeskeobryum brevirostre,NA
 Lolium multiflorum,native
@@ -1853,12 +1853,12 @@ Lolium x boucheanum,NA
 Lolium x elongatum,native
 Lomelosia stellata,NA
 Lonicera etrusca,native
-Lonicera implexa,NA
+Lonicera implexa,native
 Lonicera japonica,neophyte
 Lonicera periclymenum,native
 Lonicera pyrenaica,NA
 Lonicera xylosteum,native
-Lophocolea bidentata,NA
+Lophocolea bidentata,bryophyte
 Lophocolea coadunata,NA
 Lophocolea heterophylla,NA
 Lophozia ventricosa,NA
@@ -1866,8 +1866,8 @@ Lotus alpinus,NA
 Lotus angustissimus,native
 Lotus conimbricensis,NA
 Lotus corniculatus,native
-Lotus creticus,NA
-Lotus delortii,NA
+Lotus creticus,native
+Lotus delortii,native
 Lotus glareosus,native
 Lotus hispidus,native
 Lotus maritimus,native
@@ -1884,7 +1884,7 @@ Lupinus luteus,native
 Luronium natans,NA
 Luzula caespitosa,NA
 Luzula campestris,native
-Luzula congesta,NA
+Luzula congesta,native
 Luzula desvauxii,NA
 Luzula forsteri,native
 Luzula lactea,native
@@ -1900,7 +1900,7 @@ Lycopodium alpinum,NA
 Lycopodium clavatum,NA
 Lycopsis arvensis,native
 Lycopus europaeus,native
-Lysimachia ephemerum,NA
+Lysimachia ephemerum,native
 Lysimachia nemorum,native
 Lysimachia nummularia,NA
 Lysimachia vulgaris,native
@@ -1920,15 +1920,15 @@ Malva parviflora,archaeophyte
 Malva sylvestris,native
 Malva tournefortiana aggr.,native
 Mantisalca salmantica,native
-Marchantia polymorpha,NA
-Margotia gummifera,NA
+Marchantia polymorpha,bryophyte
+Margotia gummifera,native
 Marrubium vulgare,native
 Marrubium x bastetanum,NA
 Matricaria chamomilla,native
 Matricaria discoidea,neophyte
 Matricaria suaveolens,native
 Matthiola fruticulosa,NA
-Matthiola incana,NA
+Matthiola incana,archaeophyte
 Matthiola perennis,NA
 Matthiola sinuata,NA
 Maytenus umbellata,NA
@@ -1938,14 +1938,14 @@ Medicago littoralis,native
 Medicago lupulina,native
 Medicago marina,native
 Medicago minima,native
-Medicago monspeliaca,NA
+Medicago monspeliaca,native
 Medicago orbicularis,archaeophyte
 Medicago polyceratia,native
 Medicago polymorpha,native
-Medicago rigidula,NA
+Medicago rigidula,native
 Medicago sativa,archaeophyte
 Medicago scutellata,native
-Medicago suffruticosa,NA
+Medicago suffruticosa,native
 Medicago truncatula,NA
 Melampyrum pratense,native
 Melica ciliata,native
@@ -1960,7 +1960,7 @@ Melilotus sulcatus,archaeophyte
 Melissa officinalis,archaeophyte
 Melittis melissophyllum,native
 Mentha aquatica,native
-Mentha arvensis,NA
+Mentha arvensis,native
 Mentha cervina,NA
 Mentha longifolia,native
 Mentha pulegium,native
@@ -1973,7 +1973,7 @@ Menyanthes trifoliata,NA
 Mercurialis annua,archaeophyte
 Mercurialis perennis,native
 Mercurialis tomentosa,native
-Mesembryanthemum nodiflorum,NA
+Mesembryanthemum nodiflorum,native
 Metzgeria furcata,NA
 Metzgeria pubescens,NA
 Meum athamanticum,NA
@@ -1995,8 +1995,8 @@ Minuartia verna,NA
 Minuartia villarii,NA
 Mirabilis jalapa,neophyte
 Misopates orontium,archaeophyte
-Mnium hornum,NA
-Mnium marginatum,NA
+Mnium hornum,bryophyte
+Mnium marginatum,bryophyte
 Mnium stellare,NA
 Mnium thomsonii,bryophyte
 Moehringia pentandra,native
@@ -2004,7 +2004,7 @@ Moehringia trinervia,native
 Moenchia erecta,native
 Molineriella laevis,native
 Molineriella minuta,NA
-Molinia arundinacea,NA
+Molinia arundinacea,native
 Molinia caerulea,native
 Montia arvensis,native
 Montia fontana,native
@@ -2031,11 +2031,11 @@ Myosotis sicula,native
 Myosotis stolonifera aggr.,native
 Myosotis stricta,native
 Myosotis sylvatica,native
-Myosotis welwitschii,NA
+Myosotis welwitschii,native
 Myosoton aquaticum,native
 Myosurus minimus,native
-Myrica gale,NA
-Myriolimon ferulaceum,NA
+Myrica gale,native
+Myriolimon ferulaceum,native
 Myriophyllum alterniflorum,NA
 Myriophyllum spicatum,NA
 Myrrhis odorata,native
@@ -2044,13 +2044,13 @@ Najas marina,NA
 Najas minor,NA
 Narcissus assoanus,NA
 Narcissus asturiensis,native
-Narcissus bulbocodium,NA
+Narcissus bulbocodium,native
 Narcissus cernuus,NA
 Narcissus cyclamineus,native
 Narcissus nivalis,NA
 Narcissus poeticus,NA
-Narcissus primigenius,NA
-Narcissus pseudonarcissus aggr.,NA
+Narcissus primigenius,native
+Narcissus pseudonarcissus aggr.,native
 Narcissus rupicola,NA
 Narcissus triandrus,native
 Nardia compressa,NA
@@ -2060,22 +2060,22 @@ Nasturtium microphyllum,NA
 Nasturtium officinale,native
 Neatostema apulum,NA
 Neckera complanata,NA
-Neckera crispa,NA
+Neckera crispa,bryophyte
 Neckera pumila,NA
 Neoschischkinia elegans,NA
-Neoschischkinia pourretii,NA
+Neoschischkinia pourretii,native
 Neoschischkinia truncatula,native
-Neotinea ustulata,NA
-Neotorularia torulosa,NA
+Neotinea ustulata,native
+Neotorularia torulosa,archaeophyte
 Neottia nidus-avis,native
-Neottia ovata,NA
+Neottia ovata,native
 Nepeta cataria,native
 Nepeta latifolia,native
 Nepeta nepetella,NA
 Neslia paniculata,archaeophyte
 Nigella hispanica,native
 Noccaea brachypetala,NA
-Noccaea caerulescens,NA
+Noccaea caerulescens,native
 Noccaea perfoliata,native
 Nogopterium gracile,NA
 Nymphaea alba,NA
@@ -2086,8 +2086,8 @@ Odontarrhena serpyllifolia,native
 Odontites jaubertiana,NA
 Odontites longiflora,NA
 Odontites luteus,NA
-Odontites recordonii,NA
-Odontites tenuifolia aggr.,NA
+Odontites recordonii,native
+Odontites tenuifolia aggr.,native
 Odontites vernus,native
 Odontites viscosus,NA
 Odontites vulgaris,native
@@ -2109,8 +2109,8 @@ Omphalodes nitida,native
 Onobrychis conferta,archaeophyte
 Onobrychis humilis,NA
 Onobrychis reuteri,NA
-Onobrychis supina,NA
-Onobrychis viciifolia,NA
+Onobrychis supina,native
+Onobrychis viciifolia,archaeophyte
 Ononis diffusa,NA
 Ononis fruticosa,NA
 Ononis mitissima,native
@@ -2130,15 +2130,15 @@ Ophrys apifera,native
 Ophrys fusca aggr.,NA
 Ophrys insectifera,NA
 Ophrys lutea aggr.,NA
-Ophrys scolopax aggr.,NA
+Ophrys scolopax aggr.,native
 Ophrys speculum aggr.,NA
-Ophrys sphegodes aggr.,NA
-Ophrys tenthredinifera aggr.,NA
+Ophrys sphegodes aggr.,native
+Ophrys tenthredinifera aggr.,native
 Opopanax chironium,NA
 Opuntia tuna,NA
-Orchis anthropophora,NA
-Orchis italica,NA
-Orchis mascula,NA
+Orchis anthropophora,native
+Orchis italica,native
+Orchis mascula,native
 Orchis pallens,NA
 Orchis provincialis,NA
 Orchis purpurea,NA
@@ -2152,7 +2152,7 @@ Ornithogalum baeticum,NA
 Ornithogalum broteroi,NA
 Ornithogalum concinnum,NA
 Ornithogalum narbonense,NA
-Ornithogalum orthophyllum,NA
+Ornithogalum orthophyllum,native
 Ornithogalum pyrenaicum,native
 Ornithogalum umbellatum,native
 Ornithopus compressus,archaeophyte
@@ -2161,15 +2161,15 @@ Ornithopus pinnatus,native
 Ornithopus sativus,native
 Orobanche alba,NA
 Orobanche amethystea,NA
-Orobanche caryophyllacea,NA
-Orobanche gracilis,NA
+Orobanche caryophyllacea,native
+Orobanche gracilis,native
 Orobanche hederae,native
 Orobanche lutea,NA
 Orobanche minor,native
-Orobanche rapum-genistae,NA
+Orobanche rapum-genistae,native
 Orobanche sanguinea,native
 Orobanche teucrii,NA
-Orobanche variegata,NA
+Orobanche variegata,native
 Orthotrichum anomalum,NA
 Osmunda regalis,native
 Osyris alba,native
@@ -2212,9 +2212,9 @@ Parapholis strigosa,NA
 Parentucellia latifolia,native
 Parentucellia viscosa,native
 Parietaria judaica aggr.,archaeophyte
-Parietaria lusitanica,NA
+Parietaria lusitanica,native
 Paris quadrifolia,native
-Parnassia palustris,NA
+Parnassia palustris,native
 Paronychia argentea,native
 Paronychia capitata,NA
 Paronychia cymosa,NA
@@ -2226,18 +2226,18 @@ Paspalum distichum,neophyte
 Paspalum vaginatum,neophyte
 Pastinaca sativa aggr.,native
 Patzkea durandoi,NA
-Patzkea durandoi aggr.,NA
+Patzkea durandoi aggr.,native
 Patzkea paniculata aggr.,NA
 Patzkea spadicea,NA
 Pedicularis comosa,NA
 Pedicularis foliosa,NA
 Pedicularis mixta,NA
 Pedicularis pyrenaica,NA
-Pedicularis schizocalyx,NA
+Pedicularis schizocalyx,native
 Pedicularis sylvatica,NA
-Pedicularis verticillata,NA
-Pellia endiviifolia,NA
-Pellia epiphylla,NA
+Pedicularis verticillata,native
+Pellia endiviifolia,bryophyte
+Pellia epiphylla,bryophyte
 Pentaglottis sempervirens,native
 Periballia involucrata,native
 Persicaria amphibia,NA
@@ -2272,20 +2272,20 @@ Phalaris minor,native
 Phalaroides arundinacea,native
 Phegopteris connectilis,NA
 Phelipanche arenaria,native
-Phelipanche nana,NA
+Phelipanche nana,native
 Phelipanche ramosa,native
-Phillyrea angustifolia,NA
+Phillyrea angustifolia,native
 Phillyrea latifolia,native
 Philonotis calcarea,NA
 Philonotis fontana,NA
 Philonotis rigida,NA
-Philonotis seriata,NA
+Philonotis seriata,bryophyte
 Phleum alpinum,NA
 Phleum arenarium,native
 Phleum nodosum,native
 Phleum phleoides,native
 Phleum pratense,native
-Phlomis herba-venti,NA
+Phlomis herba-venti,native
 Phlomis lychnitis,NA
 Phragmites australis,native
 Physcomitrium patens,NA
@@ -2298,16 +2298,16 @@ Phytolacca americana,neophyte
 Picris hieracioides,native
 Pilosella castellana,NA
 Pilosella galiciana,NA
-Pilosella hypeurya,NA
-Pilosella lactucella,NA
+Pilosella hypeurya,native
+Pilosella lactucella,native
 Pilosella officinarum aggr.,native
 Pilosella peleteriana,NA
-Pilosella pilosellina,NA
+Pilosella pilosellina,native
 Pilosella pintodasilvae,NA
 Pilosella pseudopilosella,native
-Pilosella saussureoides,NA
+Pilosella saussureoides,native
 Pilosella schultesii,NA
-Pilosella subtardans,NA
+Pilosella subtardans,native
 Pilosella vahlii,NA
 Pilularia globulifera,NA
 Pimpinella major,native
@@ -2320,8 +2320,8 @@ Pinguicula lusitanica,NA
 Pinguicula vulgaris,NA
 Pinus pinaster,native
 Pinus pinea,archaeophyte
-Pinus radiata,NA
-Pinus sylvestris,NA
+Pinus radiata,neophyte
+Pinus sylvestris,native
 Pinus uncinata,NA
 Piptatherum miliaceum,archaeophyte
 Piptatherum paradoxum,archaeophyte
@@ -2335,15 +2335,15 @@ Plagiochila bifaria,NA
 Plagiochila exigua,NA
 Plagiochila porelloides,NA
 Plagiochila punctata,NA
-Plagiomnium affine,NA
+Plagiomnium affine,bryophyte
 Plagiomnium cuspidatum,NA
-Plagiomnium elatum,NA
+Plagiomnium elatum,bryophyte
 Plagiomnium rostratum,bryophyte
 Plagiomnium undulatum,bryophyte
 Plagiothecium nemorale,NA
-Plagiothecium undulatum,NA
+Plagiothecium undulatum,bryophyte
 Plantago afra,NA
-Plantago albicans,NA
+Plantago albicans,native
 Plantago alpina,native
 Plantago arborescens,NA
 Plantago argentea,NA
@@ -2351,14 +2351,14 @@ Plantago atrata aggr.,NA
 Plantago bellardii,NA
 Plantago coronopus,native
 Plantago holosteum,native
-Plantago lagopus,NA
+Plantago lagopus,native
 Plantago lanceolata,native
 Plantago loeflingii,NA
 Plantago macrorhiza,NA
 Plantago major,native
 Plantago maritima,native
 Plantago media,native
-Plantago sempervirens,NA
+Plantago sempervirens,native
 Plantago subulata,NA
 Plantago uniflora,NA
 Platanthera bifolia,native
@@ -2368,8 +2368,8 @@ Platanus x hispanica,neophyte
 Platycapnos spicata,NA
 Pleuridium acuminatum,NA
 Pleuridium subulatum,NA
-Pleurochaete squarrosa,native
-Pleurozium schreberi,NA
+Pleurochaete squarrosa,bryophyte
+Pleurozium schreberi,bryophyte
 Plumbago europaea,NA
 Poa alpina,native
 Poa angustifolia,native
@@ -2386,18 +2386,18 @@ Poa nemoralis,native
 Poa pratensis,native
 Poa trivialis,native
 Podospermum laciniatum,native
-Pogonatum aloides,NA
-Pogonatum nanum,NA
+Pogonatum aloides,bryophyte
+Pogonatum nanum,bryophyte
 Pohlia ludwigii,NA
 Pohlia nutans,NA
 Pohlia wahlenbergii,NA
 Polycarpon tetraphyllum,native
-Polygala alpestris,NA
-Polygala alpina,NA
+Polygala alpestris,native
+Polygala alpina,native
 Polygala calcarea,NA
 Polygala edmundi,NA
 Polygala microphylla,NA
-Polygala monspeliaca,NA
+Polygala monspeliaca,native
 Polygala rupestris,NA
 Polygala serpyllifolia,native
 Polygala vulgaris,native
@@ -2420,11 +2420,11 @@ Polypogon viridis,archaeophyte
 Polystichum aculeatum,native
 Polystichum lonchitis,NA
 Polystichum setiferum,native
-Polystichum x bicknellii ,NA
+Polystichum x bicknellii ,native
 Polystichum x illyricum,native
 Polystichum x lonchitiforme,NA
 Polytrichastrum formosum,bryophyte
-Polytrichum commune,NA
+Polytrichum commune,bryophyte
 Polytrichum juniperinum,NA
 Polytrichum piliferum,NA
 Populus alba,archaeophyte
@@ -2456,12 +2456,12 @@ Potentilla crantzii,NA
 Potentilla erecta,native
 Potentilla grandiflora,NA
 Potentilla indica,neophyte
-Potentilla micrantha,NA
+Potentilla micrantha,native
 Potentilla montana,native
 Potentilla nivalis,NA
-Potentilla pusilla,NA
+Potentilla pusilla,native
 Potentilla pyrenaica,NA
-Potentilla recta,NA
+Potentilla recta,native
 Potentilla reptans,native
 Potentilla sterilis,native
 Prenanthes purpurea,NA
@@ -2470,12 +2470,12 @@ Primula elatior,native
 Primula farinosa,NA
 Primula integrifolia,NA
 Primula veris,native
-Prospero autumnale,NA
+Prospero autumnale,native
 Prunella grandiflora,native
 Prunella hyssopifolia,native
 Prunella laciniata,native
 Prunella vulgaris,native
-Prunella x bicolor,NA
+Prunella x bicolor,native
 Prunus avium,native
 Prunus cerasifera,neophyte
 Prunus cerasus,archaeophyte
@@ -2485,18 +2485,18 @@ Prunus laurocerasus,neophyte
 Prunus lusitanica,native
 Prunus mahaleb,native
 Prunus padus,native
-Prunus padus subsp. padus,NA
+Prunus padus subsp. padus,native
 Prunus spinosa,native
 Pseudarrhenatherum longifolium,native
 Pseudorchis albida,NA
 Pseudorlaya pumila,NA
 Pseudoscleropodium purum,bryophyte
 Pseudotaxiphyllum elegans,NA
-Pseudotsuga menziesii,NA
+Pseudotsuga menziesii,neophyte
 Pseudoturritis turrita,native
-Psilurus incurvus,NA
+Psilurus incurvus,native
 Pteridium aquilinum,native
-Pterigynandrum filiforme,NA
+Pterigynandrum filiforme,bryophyte
 Pterocephalidium diandrum,NA
 Pterygoneurum ovatum,NA
 Ptilium crista-castrensis,NA
@@ -2511,19 +2511,19 @@ Pulmonaria longifolia,native
 Pulmonaria obscura,NA
 Pulmonaria officinalis,NA
 Pulsatilla alpina,native
-Pulsatilla rubra,NA
+Pulsatilla rubra,native
 Pulsatilla vernalis,NA
 Pulsatilla vulgaris,NA
-Pyrola minor,NA
+Pyrola minor,native
 Pyrus communis,archaeophyte
 Pyrus cordata,native
 Quercus coccifera,NA
 Quercus faginea,native
 Quercus ilex,native
 Quercus lusitanica,NA
-Quercus lusitanica x petraea,NA
+Quercus lusitanica x petraea,native
 Quercus orocantabrica x pyrenaica,NA
-Quercus pauciradiata,NA
+Quercus pauciradiata,native
 Quercus petraea,native
 Quercus pubescens,native
 Quercus pyrenaica,native
@@ -2531,7 +2531,7 @@ Quercus robur,native
 Quercus rotundifolia,native
 Quercus rubra,neophyte
 Quercus suber,native
-Quercus x allorgeana,NA
+Quercus x allorgeana,native
 Quercus x andegavensis,native
 Quercus x arrimatensis,NA
 Quercus x avellaniformis,NA
@@ -2539,19 +2539,19 @@ Quercus x cerrioides,native
 Quercus x coutinhoi,native
 Quercus x gracilis,native
 Quercus x kerneri,native
-Quercus x neomairei,NA
+Quercus x neomairei,native
 Quercus x numantina,native
 Quercus x rosacea,native
 Quercus x rotensis,NA
 Quercus x salcedoi ,NA
 Quercus x streimii,native
 Quercus x trabutii,native
-Racomitrium aciculare,NA
-Racomitrium aquaticum,NA
-Racomitrium canescens,native
-Racomitrium elongatum,NA
-Racomitrium heterostichum,NA
-Racomitrium lanuginosum,NA
+Racomitrium aciculare,bryophyte
+Racomitrium aquaticum,bryophyte
+Racomitrium canescens,bryophyte
+Racomitrium elongatum,bryophyte
+Racomitrium heterostichum,bryophyte
+Racomitrium lanuginosum,bryophyte
 Radiola linoides,native
 Radula lindenbergiana,NA
 Ranunculus abnormis,NA
@@ -2562,17 +2562,17 @@ Ranunculus amplexicaulis,NA
 Ranunculus aquatilis,NA
 Ranunculus arvensis,archaeophyte
 Ranunculus auricomus,NA
-Ranunculus breyninus,NA
+Ranunculus breyninus,native
 Ranunculus bulbosus,native
 Ranunculus bupleuroides,NA
 Ranunculus carinthiacus,NA
-Ranunculus carlittensis,NA
+Ranunculus carlittensis,native
 Ranunculus flammula,native
 Ranunculus gouanii,NA
 Ranunculus gramineus,NA
 Ranunculus gregarius,NA
 Ranunculus hederaceus,NA
-Ranunculus longipes,NA
+Ranunculus longipes,native
 Ranunculus montanus,NA
 Ranunculus muricatus,native
 Ranunculus nigrescens,NA
@@ -2618,33 +2618,33 @@ Rhamnus cathartica,native
 Rhamnus lycioides,NA
 Rhamnus myrtifolia,NA
 Rhamnus pumila,NA
-Rhamnus saxatilis,NA
+Rhamnus saxatilis,native
 Rhaponticum coniferum,NA
 Rhaponticum exaltatum,NA
-Rhinanthus alectorolophus,NA
+Rhinanthus alectorolophus,native
 Rhinanthus angustifolius,native
 Rhinanthus burnatii,NA
 Rhinanthus glacialis,native
 Rhinanthus mediterraneus,native
 Rhinanthus minor,native
 Rhizomnium pseudopunctatum,NA
-Rhizomnium punctatum,NA
+Rhizomnium punctatum,bryophyte
 Rhodobryum roseum,bryophyte
-Rhododendron ponticum,NA
+Rhododendron ponticum,native
 Rhynchosinapis monensis,NA
 Rhynchospora alba,NA
 Rhynchospora fusca,NA
 Rhynchostegium alopecuroides,NA
 Rhynchostegium murale,bryophyte
 Rhynchostegium riparioides,NA
-Rhytidiadelphus loreus,NA
-Rhytidiadelphus squarrosus,NA
+Rhytidiadelphus loreus,bryophyte
+Rhytidiadelphus squarrosus,bryophyte
 Ribes alpinum,native
 Ribes petraeum,native
 Ribes uva-crispa,native
 Riccardia chamedryfolia,NA
 Riccardia incurvata,NA
-Riccardia multifida,NA
+Riccardia multifida,bryophyte
 Riccia cavernosa,NA
 Riccia sorocarpa,NA
 Riccia subbifurca,NA
@@ -2654,23 +2654,23 @@ Roemeria hybrida,archaeophyte
 Romulea bulbocodium aggr.,native
 Rorippa islandica,native
 Rorippa palustris,native
-Rorippa pyrenaica,NA
+Rorippa pyrenaica,native
 Rorippa sylvestris,native
 Rosa agrestis,native
 Rosa arvensis,native
-Rosa caesia,NA
+Rosa caesia,native
 Rosa canina aggr.,native
-Rosa dumalis aggr.,NA
-Rosa gallica,NA
+Rosa dumalis aggr.,native
+Rosa gallica,native
 Rosa inodora,NA
 Rosa micrantha,native
 Rosa pendulina,NA
 Rosa pouzinii,native
 Rosa rubiginosa,NA
 Rosa sempervirens,native
-Rosa spinosissima,NA
-Rosa stylosa,NA
-Rosa tomentosa,NA
+Rosa spinosissima,native
+Rosa stylosa,native
+Rosa tomentosa,native
 Rosa villosa,native
 Rosa x pervirens,native
 Rosmarinus officinalis,NA
@@ -2679,7 +2679,7 @@ Rubia peregrina,native
 Rubus fruticosus aggr.,native
 Rumex acetosa,native
 Rumex acetosella,native
-Rumex alpinus,NA
+Rumex alpinus,native
 Rumex aquitanicus,native
 Rumex arifolius,native
 Rumex bucephalophorus,native
@@ -2697,14 +2697,14 @@ Rumex suffruticosus,NA
 Ruppia maritima,NA
 Ruscus aculeatus,native
 Ruta angustifolia,NA
-Ruta chalepensis,NA
+Ruta chalepensis,native
 Ruta graveolens,NA
 Ruta montana,native
 Saccogyna viticulosa,NA
 Sagina apetala,native
 Sagina maritima,native
 Sagina merinoi,NA
-Sagina nodosa,NA
+Sagina nodosa,native
 Sagina procumbens,native
 Sagina sabuletorum,NA
 Sagina saginoides,NA
@@ -2718,7 +2718,7 @@ Salix alba x fragilis,native
 Salix atrocinerea,native
 Salix atrocinerea x eleagnos,NA
 Salix breviserrata,NA
-Salix cantabrica,NA
+Salix cantabrica,native
 Salix caprea,native
 Salix eleagnos,native
 Salix euxina,native
@@ -2729,26 +2729,26 @@ Salix repens,native
 Salix salviifolia,native
 Salix triandra,native
 Salix viminalis,native
-Salix x altobracensis,NA
+Salix x altobracensis,native
 Salix x eriophora,native
 Salix x fragilis,native
-Salix x legionensis,NA
+Salix x legionensis,native
 Salix x longissima,NA
 Salix x mollissima,native
 Salix x multidentata,native
-Salix x pormensis,NA
+Salix x pormensis,native
 Salix x pseudosalvifolia,native
 Salix x quercifolia,native
-Salix x rijosa,NA
+Salix x rijosa,native
 Salix x secalliana,native
 Salsola kali,NA
 Salvia aethiopis,NA
 Salvia lavandulifolia,NA
-Salvia pratensis,NA
+Salvia pratensis,native
 Salvia verbenaca,native
 Sambucus ebulus,archaeophyte
 Sambucus nigra,native
-Sambucus racemosa,NA
+Sambucus racemosa,native
 Samolus valerandi,native
 Sanguisorba minor,native
 Sanguisorba officinalis,native
@@ -2756,11 +2756,11 @@ Sanguisorba verrucosa,native
 Sanicula europaea,native
 Santolina chamaecyparissus,NA
 Santolina melidensis,NA
-Santolina rosmarinifolia,NA
+Santolina rosmarinifolia,native
 Santolina semidentata,native
 Santolina villosa,NA
 Saponaria caespitosa,NA
-Saponaria glutinosa,NA
+Saponaria glutinosa,native
 Saponaria ocymoides,NA
 Saponaria officinalis,native
 Sarcocapnos enneaphylla,NA
@@ -2793,7 +2793,7 @@ Saxifraga tridactylites,NA
 Saxifraga trifurcata,native
 Saxifraga x faucicola,NA
 Saxifraga x polita,NA
-Scabiosa cinerea,NA
+Scabiosa cinerea,native
 Scabiosa columbaria,native
 Scabiosa pyrenaica,NA
 Scandix australis,NA
@@ -2807,12 +2807,12 @@ Schedonorus giganteus,native
 Schedonorus pratensis,native
 Schoenoplectus lacustris,native
 Schoenoplectus pungens,NA
-Schoenus nigricans,NA
+Schoenus nigricans,native
 Scilla bifolia,native
 Scilla lilio-hyacinthus,native
 Scilla merinoi,NA
-Scilla monophyllos,NA
-Scilla ramburei,NA
+Scilla monophyllos,native
+Scilla ramburei,native
 Scilla verna,native
 Scirpoides holoschoenus,native
 Scirpus sylvaticus,native
@@ -2825,12 +2825,12 @@ Scleranthus verticillatus,native
 Sclerochloa dura,native
 Scleropodium touretii,NA
 Scolymus hispanicus,native
-Scorpidium cossonii,NA
+Scorpidium cossonii,bryophyte
 Scorpidium scorpioides,NA
 Scorpiurium circinatum,NA
-Scorpiurus muricatus,NA
+Scorpiurus muricatus,native
 Scorzonera angustifolia,native
-Scorzonera hirsuta,NA
+Scorzonera hirsuta,native
 Scorzonera hispanica,NA
 Scorzonera humilis,NA
 Scorzoneroides autumnalis,native
@@ -2852,7 +2852,7 @@ Secale cereale,archaeophyte
 Sedum acre,native
 Sedum album,native
 Sedum alpestre,NA
-Sedum amplexicaule,NA
+Sedum amplexicaule,native
 Sedum andegavense,NA
 Sedum anglicum,native
 Sedum arenarium,native
@@ -2870,7 +2870,7 @@ Sedum maireanum,NA
 Sedum pruinatum,NA
 Sedum rubens,NA
 Sedum sediforme,NA
-Sedum villosum,NA
+Sedum villosum,native
 Selaginella denticulata,NA
 Selaginella selaginoides,NA
 Selinum carvifolia,NA
@@ -2879,16 +2879,16 @@ Sempervivum tectorum,NA
 Sempervivum vicentei,native
 Sempervivum x giuseppii,NA
 Senecio bayonnensis,native
-Senecio carpetanus,NA
+Senecio carpetanus,native
 Senecio doria,native
-Senecio doronicum,NA
+Senecio doronicum,native
 Senecio doronicum ,NA
 Senecio duriaei,native
 Senecio elegans,NA
 Senecio gallicus,native
 Senecio inaequidens,neophyte
 Senecio lagascanus,NA
-Senecio legionensis,NA
+Senecio legionensis,native
 Senecio lividus,native
 Senecio nemorensis,native
 Senecio ovatus,native
@@ -2902,12 +2902,12 @@ Serratula tinctoria,native
 Sesamoides interrupta,native
 Sesamoides minor,NA
 Sesamoides purpurascens,NA
-Seseli cantabricum,NA
+Seseli cantabricum,native
 Seseli libanotis,NA
-Seseli montanum,NA
-Seseli peucedanoides,NA
+Seseli montanum,native
+Seseli peucedanoides,native
 Seseli tortuosum,native
-Sesleria autumnalis,NA
+Sesleria autumnalis,native
 Sesleria caerulea,NA
 Setaria faberi,neophyte
 Setaria parviflora,neophyte
@@ -2932,14 +2932,14 @@ Silene colorata,native
 Silene conica,native
 Silene conoidea,native
 Silene coronaria,native
-Silene coutinhoi,NA
+Silene coutinhoi,native
 Silene dichotoma,native
 Silene dioica,native
 Silene flos-cuculi,native
 Silene foetida,NA
-Silene fuscata,NA
+Silene fuscata,native
 Silene gallica,archaeophyte
-Silene inaperta,NA
+Silene inaperta,native
 Silene italica,NA
 Silene laeta,native
 Silene latifolia,native
@@ -2949,7 +2949,7 @@ Silene marizii,NA
 Silene muscipula,native
 Silene nemoralis,native
 Silene niceensis,NA
-Silene nocturna,NA
+Silene nocturna,native
 Silene nutans,native
 Silene portensis,native
 Silene psammitis,NA
@@ -2957,10 +2957,10 @@ Silene rupestris,NA
 Silene saxifraga,NA
 Silene scabriflora,native
 Silene suecica,NA
-Silene uniflora,NA
+Silene uniflora,native
 Silene vulgaris,native
 Silybum marianum,archaeophyte
-Simethis planifolia,NA
+Simethis planifolia,native
 Sinapidendron angustifolium,NA
 Sinapis alba,archaeophyte
 Sinapis arvensis,archaeophyte
@@ -2981,7 +2981,7 @@ Solanum dulcamara,native
 Solanum nigrum,native
 Solanum tuberosum,neophyte
 Soldanella alpina,NA
-Soldanella villosa,NA
+Soldanella villosa,native
 Soleirolia soleirolii,neophyte
 Solenostoma gracillimum,NA
 Solenostoma hyalinum,NA
@@ -2995,7 +2995,7 @@ Sonchus bulbosus,native
 Sonchus maritimus,NA
 Sonchus oleraceus,native
 Sonchus tenerrimus,archaeophyte
-Sonchus ustulatus,NA
+Sonchus ustulatus,native
 Sorbus aria,native
 Sorbus aucuparia,native
 Sorbus domestica,archaeophyte
@@ -3009,7 +3009,7 @@ Sparganium erectum,native
 Sparganium neglectum,native
 Spartina alterniflora,NA
 Spartina maritima,NA
-Spartina versicolor,NA
+Spartina versicolor,native
 Spergula arvensis,native
 Spergula morisonii,native
 Spergula pentandra,native
@@ -3029,7 +3029,7 @@ Sphagnum capillifolium,NA
 Sphagnum compactum,NA
 Sphagnum cuspidatum,NA
 Sphagnum denticulatum,NA
-Sphagnum fimbriatum,NA
+Sphagnum fimbriatum,bryophyte
 Sphagnum flexuosum,NA
 Sphagnum inundatum,NA
 Sphagnum magellanicum,NA
@@ -3041,7 +3041,7 @@ Sphagnum quinquefarium,NA
 Sphagnum recurvum,NA
 Sphagnum rubellum,NA
 Sphagnum russowii,NA
-Sphagnum squarrosum,NA
+Sphagnum squarrosum,bryophyte
 Sphagnum subnitens,NA
 Sphagnum subsecundum,NA
 Sphagnum tenellum,NA
@@ -3050,20 +3050,20 @@ Sphagum compactum,NA
 Sphangnum subsecundum,NA
 Sphenopus divaricatus,NA
 Spiraea hypericifolia,NA
-Spiranthes aestivalis,NA
-Spiranthes spiralis,NA
+Spiranthes aestivalis,native
+Spiranthes spiralis,native
 Spirodela polyrhiza,NA
 Splachnum ampullaceum,NA
 Sporobolus indicus,neophyte
 Sporobolus pungens,NA
 Stachys alopecuros,NA
 Stachys alpina,native
-Stachys annua,NA
+Stachys annua,native
 Stachys arvensis,native
 Stachys heraclea,native
 Stachys officinalis,native
 Stachys palustris,native
-Stachys recta,NA
+Stachys recta,native
 Stachys sylvatica,native
 Staehelina dubia,NA
 Stellaria alsine,native
@@ -3086,26 +3086,26 @@ Suaeda spicata,NA
 Suaeda vera,NA
 Succisa pinnatifida,NA
 Succisa pratensis,native
-Swertia perennis,NA
+Swertia perennis,native
 Symphyotrichum lanceolatum,neophyte
 Symphyotrichum squamatum,neophyte
 Symphyotrichum x salignum,neophyte
 Symphytum tuberosum,native
 Syntrichia ruralis,NA
 Taeniatherum caput-medusae,native
-Tamarix gallica,NA
+Tamarix gallica,native
 Tanacetum corymbosum,native
-Tanacetum mucronulatum,NA
+Tanacetum mucronulatum,native
 Tanacetum parthenium,archaeophyte
 Tanacetum vulgare,native
 Taraxacum sect. Alpina,NA
 Taraxacum sect. Erythrosperma,native
 Taraxacum sect. Obliqua,native
 Taraxacum sect. Obovata,native
-Taraxacum sect. Palustria,NA
+Taraxacum sect. Palustria,native
 Taraxacum sect. Spectabilia,NA
 Taraxacum sect. Taraxacum,native
-Targionia hypophylla,NA
+Targionia hypophylla,bryophyte
 Taxiphyllum wissgrillii,NA
 Taxus baccata,native
 Teesdalia conferta,NA
@@ -3115,7 +3115,7 @@ Telaranea nematodes,NA
 Telephium imperati,NA
 Tephroseris helenitis,native
 Tephroseris longifolia,NA
-Tetragonia tetragonioides,NA
+Tetragonia tetragonioides,neophyte
 Teucrium botrys,NA
 Teucrium capitatum,NA
 Teucrium chamaedrys,NA
@@ -3123,27 +3123,27 @@ Teucrium expassum,NA
 Teucrium polium,NA
 Teucrium pyrenaicum,NA
 Teucrium salviastrum,NA
-Teucrium scordium,NA
+Teucrium scordium,native
 Teucrium scorodonia,native
 Thalictrum alpinum,NA
-Thalictrum aquilegiifolium,NA
+Thalictrum aquilegiifolium,native
 Thalictrum flavum,native
 Thalictrum macrocarpum,NA
 Thalictrum minus,native
 Thalictrum speciosissimum,native
 Thalictrum tuberosum,NA
-Thamnobryum alopecurum,NA
+Thamnobryum alopecurum,bryophyte
 Thapsia minor,NA
 Thapsia villosa,native
 Thelypteris limbosperma,native
-Thelypteris palustris,NA
+Thelypteris palustris,native
 Thesium alpinum,NA
-Thesium humifusum,NA
-Thesium pyrenaicum,NA
+Thesium humifusum,native
+Thesium pyrenaicum,native
 Thlaspi alliaceum,native
 Thlaspi arvense,archaeophyte
-Thuidium assimile,NA
-Thuidium delicatulum,NA
+Thuidium assimile,bryophyte
+Thuidium delicatulum,bryophyte
 Thuidium tamariscinum,bryophyte
 Thymelaea broteriana,NA
 Thymelaea coridifolia,NA
@@ -3157,11 +3157,11 @@ Thymus capitellatus,NA
 Thymus leptophyllus,NA
 Thymus longicaulis,NA
 Thymus loscosii,NA
-Thymus mastichina,NA
+Thymus mastichina,native
 Thymus mastigophorus,NA
 Thymus praecox aggr.,NA
 Thymus pulegioides,native
-Thymus serpyllum,NA
+Thymus serpyllum,native
 Thymus villosus,NA
 Thymus vulgaris,NA
 Thymus x genesianus,NA
@@ -3172,7 +3172,7 @@ Thymus x zygophorus,NA
 Thymus zygis,NA
 Tilia cordata,native
 Tilia platyphyllos,native
-Tilia x europaea,NA
+Tilia x europaea,native
 Tofieldia calyculata,NA
 Tolpis barbata aggr. ,native
 Tolpis succulenta,NA
@@ -3184,7 +3184,7 @@ Torilis japonica,native
 Torilis leptophylla,native
 Torilis nodosa,archaeophyte
 Tortella nitida,NA
-Tortella tortuosa,NA
+Tortella tortuosa,bryophyte
 Tortula ruralis,NA
 Tozzia alpina,NA
 Trachelium caeruleum,archaeophyte
@@ -3197,7 +3197,7 @@ Tragopogon dubius,archaeophyte
 Tragopogon lamottei,NA
 Tragopogon porrifolius,native
 Tragopogon pratensis,native
-Trichocolea tomentella,NA
+Trichocolea tomentella,bryophyte
 Trichomanes speciosum,NA
 Trichophorum cespitosum,NA
 Trichostomum crispulum,NA
@@ -3207,18 +3207,18 @@ Trifolium arvense,native
 Trifolium bocconei,NA
 Trifolium campestre,native
 Trifolium cernuum,native
-Trifolium cherleri,NA
+Trifolium cherleri,native
 Trifolium dubium,native
 Trifolium fragiferum,native
-Trifolium gemellum,NA
+Trifolium gemellum,native
 Trifolium glomeratum,native
-Trifolium hirtum,NA
+Trifolium hirtum,native
 Trifolium incarnatum,archaeophyte
 Trifolium lappaceum,NA
 Trifolium leucanthum,NA
 Trifolium ligusticum,NA
 Trifolium medium,native
-Trifolium micranthum,NA
+Trifolium micranthum,native
 Trifolium montanum,native
 Trifolium nigrescens,native
 Trifolium ochroleucon,native
@@ -3226,36 +3226,36 @@ Trifolium patens,native
 Trifolium phleoides,NA
 Trifolium pratense,native
 Trifolium repens,native
-Trifolium resupinatum,NA
+Trifolium resupinatum,native
 Trifolium retusum,native
 Trifolium rubens,NA
 Trifolium scabrum,native
-Trifolium spadiceum,NA
+Trifolium spadiceum,native
 Trifolium squamosum,native
 Trifolium striatum,native
 Trifolium strictum,native
 Trifolium subterraneum,native
 Trifolium suffocatum,native
-Trifolium sylvaticum,NA
+Trifolium sylvaticum,native
 Trifolium thalii,NA
 Trifolium tomentosum,archaeophyte
 Triglochin barrelieri,NA
 Triglochin maritima,NA
 Triglochin palustris,NA
 Triglochin striata,NA
-Trigonella gladiata,NA
+Trigonella gladiata,native
 Trinia glauca,NA
 Tripleurospermum inodorum,archaeophyte
 Tripleurospermum maritimum,native
 Tripolium pannonicum,NA
 Trisetaria ovata,native
 Trisetaria panicea,native
-Trisetaria scabriuscula,NA
+Trisetaria scabriuscula,native
 Trisetum flavescens,native
 Trisetum hispidum,NA
 Triticum aestivum,archaeophyte
 Tritomaria quinquedentata,NA
-Trollius europaeus,NA
+Trollius europaeus,native
 Tropaeolum majus,NA
 Tuberaria echioides,native
 Tuberaria globulariifolia,NA
@@ -3264,7 +3264,7 @@ Tuberaria lignosa,NA
 Tulipa sylvestris,NA
 Turgenia latifolia,archaeophyte
 Tussilago farfara,native
-Typha angustifolia,NA
+Typha angustifolia,native
 Typha domingensis,native
 Typha latifolia,NA
 Ulex europaeus,native
@@ -3276,9 +3276,9 @@ Ulex parviflorus,NA
 Ulmus glabra,native
 Ulmus minor,native
 Ulmus x hollandica,neophyte
-Umbilicus heylandianus,NA
+Umbilicus heylandianus,native
 Umbilicus rupestris,native
-Urospermum picroides,NA
+Urospermum picroides,native
 Urtica dioica,native
 Urtica membranacea,native
 Urtica urens,archaeophyte
@@ -3302,12 +3302,12 @@ Valerianella discoidea,NA
 Valerianella eriocarpa,native
 Valerianella locusta,native
 Valerianella microcarpa,native
-Velezia rigida,NA
+Velezia rigida,native
 Veratrum album,NA
-Verbascum dentifolium,NA
+Verbascum dentifolium,native
 Verbascum lychnitis,native
 Verbascum pulverulentum,native
-Verbascum sinuatum,NA
+Verbascum sinuatum,native
 Verbascum thapsus,native
 Verbascum virgatum,native
 Verbena brasiliensis,neophyte
@@ -3316,10 +3316,10 @@ Veronica acinifolia,native
 Veronica agrestis,archaeophyte
 Veronica alpina,NA
 Veronica anagallis-aquatica,native
-Veronica anagalloides,NA
+Veronica anagalloides,native
 Veronica aphylla,NA
 Veronica arvensis,archaeophyte
-Veronica austriaca aggr.,NA
+Veronica austriaca aggr.,native
 Veronica beccabunga,native
 Veronica chamaedrys,native
 Veronica fruticans,NA
@@ -3335,10 +3335,10 @@ Veronica polita,archaeophyte
 Veronica ponae,native
 Veronica praecox,NA
 Veronica scutellata,NA
-Veronica sennenii,NA
+Veronica sennenii,native
 Veronica serpyllifolia,native
 Veronica triphyllos,archaeophyte
-Veronica verna,NA
+Veronica verna,native
 Viburnum lantana,native
 Viburnum opulus,native
 Vicia benghalensis,native
@@ -3348,7 +3348,7 @@ Vicia disperma,native
 Vicia ervilia,NA
 Vicia faba,archaeophyte
 Vicia hirsuta,native
-Vicia lathyroides,NA
+Vicia lathyroides,native
 Vicia lutea,native
 Vicia monantha,NA
 Vicia narbonensis,archaeophyte
@@ -3363,7 +3363,7 @@ Vicia sativa aggr.,archaeophyte
 Vicia sepium,native
 Vicia tenuifolia,native
 Vicia tetrasperma,native
-Vicia villosa,NA
+Vicia villosa,native
 Vinca difformis,native
 Vinca major,neophyte
 Vincetoxicum hirundinaria,native
@@ -3371,22 +3371,22 @@ Vincetoxicum nigrum,native
 Viola alba,native
 Viola arvensis,archaeophyte
 Viola biflora,NA
-Viola bubanii,NA
-Viola canina,NA
+Viola bubanii,native
+Viola canina,native
 Viola collina,NA
-Viola cornuta,NA
+Viola cornuta,native
 Viola henriquesii,NA
 Viola hirta,native
 Viola kitaibeliana,native
-Viola lactea,NA
-Viola odorata,NA
+Viola lactea,native
+Viola odorata,native
 Viola palustris,native
 Viola pyrenaica,NA
 Viola riviniana aggr.,native
 Viola rupestris,NA
 Viola suavis,native
-Viola tricolor,NA
-Viola x bavarica,NA
+Viola tricolor,native
+Viola x bavarica,native
 Viola x burnatii,NA
 Viscum album,native
 Vitis rupestris,neophyte
