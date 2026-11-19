@@ -7,8 +7,10 @@ output:
 link-citations: yes
 always_allow_html: true
 header-includes:
-  - \renewcommand{\thetable}{S2.\arabic{table}}
-  - \renewcommand{\thefigure}{S2.\arabic{figure}}
+  - \renewcommand{\thetable}{S4.\arabic{table}}
+  - \renewcommand{\thefigure}{S4.\arabic{figure}}
+  - \usepackage{fvextra}
+  - \RecustomVerbatimEnvironment{verbatim}{Verbatim}{breaklines, breakanywhere}
 ---
 
 ```{r setup, include=FALSE}
@@ -33,12 +35,16 @@ types <- c(Overall = "all", Bidens = "bidens", Buddleja = "buddleja",
              Reynoutria = "reynoutria", Robinia = "robinia")
 
 models <- map(types, ~ load_model(file.path("../models/topn", paste0("m-", .x, ".Rdata"))))
+```
 
-### Model diagnostics
+```{r diagnostics, message = FALSE, echo = TRUE, warning = FALSE, fig.width = 6.5, fig.height = 9, out.width = "100%"}
+### Model diagnostics (trace and density plots, one page per model)
 
-iwalk(models, ~ plot(.x$VCV, main = .y))
-iwalk(models, ~ plot(.x$Sol, main = .y))
+iwalk(models, ~ { par(mfrow = c(4, 2)); plot(.x$VCV, main = .y, auto.layout = FALSE) })
+iwalk(models, ~ { par(mfrow = c(4, 2)); plot(.x$Sol, main = .y, auto.layout = FALSE) })
+```
 
+```{r message = FALSE, echo = TRUE, warning = FALSE}
 ### Model summary
 
 map(models, summary)
